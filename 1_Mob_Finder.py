@@ -46,73 +46,78 @@ with st.expander("Search Criteria", True):
     hideZeroExpMobs = st.checkbox("Hide 0 Exp Mobs", True)
 printCount = 0
 
+@st.cache_data
+def get_all_mobs():
+    with open('mob_db.yml', 'r') as file:
+        all_mobs = yaml.safe_load(file)
 
-with open('mob_db.yml', 'r') as file:
-    all_mobs = yaml.safe_load(file)
+    return all_mobs
+
+all_mobs = get_all_mobs()
 #with open('mobs.csv', mode ='r') as file:    
-    for lines in all_mobs["Body"]:
-       #csvFile = csv.DictReader(file)
-       #for lines in csvFile:
-            #print(lines)
-            #st.write(lines)
-            #id = lines["ID"]
-            id = lines["Id"]
-            #level = lines["LV"]
-            level = lines["Level"]
-            #name = lines["kROName"]
-            name = lines["Name"]
-            race = lines["Race"]
-            element = lines["Element"]
+for lines in all_mobs["Body"]:
+    #csvFile = csv.DictReader(file)
+    #for lines in csvFile:
+        #print(lines)
+        #st.write(lines)
+        #id = lines["ID"]
+        id = lines["Id"]
+        #level = lines["LV"]
+        level = lines["Level"]
+        #name = lines["kROName"]
+        name = lines["Name"]
+        race = lines["Race"]
+        element = lines["Element"]
 
-            if ("Class" in lines):
-                mobClass =  lines["Class"]
-            else: 
-                mobClass = "Normal"
+        if ("Class" in lines):
+            mobClass =  lines["Class"]
+        else: 
+            mobClass = "Normal"
 
-            #baseExp = lines["EXP"]
-            baseExp = extractValueFromMob(lines,"BaseExp")
-            jobExp = extractValueFromMob(lines,"JobExp")
-            hp = extractValueFromMob(lines,"Hp")
+        #baseExp = lines["EXP"]
+        baseExp = extractValueFromMob(lines,"BaseExp")
+        jobExp = extractValueFromMob(lines,"JobExp")
+        hp = extractValueFromMob(lines,"Hp")
 
-            defense = extractValueFromMob(lines,"Defense")
-            agi = extractValueFromMob(lines,"Agi")
-            dex = extractValueFromMob(lines,"Dex")
-            if "MagicDefense" in lines:
-                magicDefense = lines["MagicDefense"]
-            else: 
-                magicDefense = 0
+        defense = extractValueFromMob(lines,"Defense")
+        agi = extractValueFromMob(lines,"Agi")
+        dex = extractValueFromMob(lines,"Dex")
+        if "MagicDefense" in lines:
+            magicDefense = lines["MagicDefense"]
+        else: 
+            magicDefense = 0
 
-            if (hideZeroExpMobs and baseExp != '0' and baseExp != 0):
-                # try:
-                #     elementMod10 = int(element) % 10
-                # except:
-                #     print("Could not modulo" + element)
-                #     elementMod10 = 0
-                
-                #Handle Element Selection
-                if (elementSelected != 'Any'):
-                    #calculatedElementSelected = MobHelper.elementMap[elementMod10]
-                    calculatedElementSelected = element
-                    #scale = MobHelper.sizeMap[int(lines["Scale"])]
-                    scale = lines["Size"]
+        if (hideZeroExpMobs and baseExp != '0' and baseExp != 0):
+            # try:
+            #     elementMod10 = int(element) % 10
+            # except:
+            #     print("Could not modulo" + element)
+            #     elementMod10 = 0
+            
+            #Handle Element Selection
+            if (elementSelected != 'Any'):
+                #calculatedElementSelected = MobHelper.elementMap[elementMod10]
+                calculatedElementSelected = element
+                #scale = MobHelper.sizeMap[int(lines["Scale"])]
+                scale = lines["Size"]
 
-                    #race = MobHelper.raceMap[int(lines["Race"])]
-                    race = lines["Race"]
+                #race = MobHelper.raceMap[int(lines["Race"])]
+                race = lines["Race"]
 
-                    if (elementSelected == calculatedElementSelected):
-                        if (raceSelected == 'Any' or raceSelected == race): 
+                if (elementSelected == calculatedElementSelected):
+                    if (raceSelected == 'Any' or raceSelected == race): 
 
-                            if (printCount < maxResults):
-                                #try:
-                                    if (int(level) >= minMaxLevel[0] and int(level) <= minMaxLevel[1]):
-                                        #name, EXP, HP, DEF, MDEF,Scale,AGI,Base EXP / HP
-                                        mobs.append({"ID":id, "Name":name,"Level":int(level),"BaseExp":int(baseExp),"JobExp":int(jobExp),"HP":int(hp),"Class":mobClass, "DEF":int(defense),"MDEF":int(magicDefense),"AGI":int(agi),"DEX":int(dex),"Scale":scale,"Race":race,"Element":calculatedElementSelected, "RMSLink":"https://ratemyserver.net/index.php?page=mob_db&quick=1&mob_name="+str(id)+"&mob_search=Search"})
-                                        #mobs.append((id,name,int(level),calculatedElementSelected))
-                                        #st.write("Name: " + name + ", Race: " + race + ", Element: " + element + ", ElementMod10: " + str(elementMod10))
-                                        printCount+=1 
-                                #except:
-                                #    print("Could not parse level for id " + str(id))
-                                #    print(lines)
+                        if (printCount < maxResults):
+                            #try:
+                                if (int(level) >= minMaxLevel[0] and int(level) <= minMaxLevel[1]):
+                                    #name, EXP, HP, DEF, MDEF,Scale,AGI,Base EXP / HP
+                                    mobs.append({"ID":id, "Name":name,"Level":int(level),"BaseExp":int(baseExp),"JobExp":int(jobExp),"HP":int(hp),"Class":mobClass, "DEF":int(defense),"MDEF":int(magicDefense),"AGI":int(agi),"DEX":int(dex),"Scale":scale,"Race":race,"Element":calculatedElementSelected, "RMSLink":"https://ratemyserver.net/index.php?page=mob_db&quick=1&mob_name="+str(id)+"&mob_search=Search"})
+                                    #mobs.append((id,name,int(level),calculatedElementSelected))
+                                    #st.write("Name: " + name + ", Race: " + race + ", Element: " + element + ", ElementMod10: " + str(elementMod10))
+                                    printCount+=1 
+                            #except:
+                            #    print("Could not parse level for id " + str(id))
+                            #    print(lines)
             
 
 #st.table(mobs)
