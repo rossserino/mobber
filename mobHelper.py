@@ -24,6 +24,7 @@ class MobHelper:
   }
 
   elementMap = {
+    20: "Any",
     0: "Neutral",
     1: "Water",
     2: "Earth",

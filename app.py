@@ -95,30 +95,33 @@ for lines in all_mobs["Body"]:
             #     elementMod10 = 0
             
             #Handle Element Selection
-            if (elementSelected != 'Any'):
+            #if (elementSelected != 'Any'):
                 #calculatedElementSelected = MobHelper.elementMap[elementMod10]
-                calculatedElementSelected = element
-                #scale = MobHelper.sizeMap[int(lines["Scale"])]
-                scale = lines["Size"]
+            #    calculatedElementSelected = element
 
-                #race = MobHelper.raceMap[int(lines["Race"])]
-                race = lines["Race"]
+            calculatedElementSelected = lines["Element"]
 
-                if (elementSelected == calculatedElementSelected):
-                    if (raceSelected == 'Any' or raceSelected == race): 
+            #scale = MobHelper.sizeMap[int(lines["Scale"])]
+            scale = lines["Size"]
 
-                        if (printCount < maxResults):
-                            #try:
-                                if (int(level) >= minMaxLevel[0] and int(level) <= minMaxLevel[1]):
-                                    #name, EXP, HP, DEF, MDEF,Scale,AGI,Base EXP / HP
-                                    mobs.append({"ID":id, "Name":name,"Level":int(level),"BaseExp":int(baseExp),"JobExp":int(jobExp),"HP":int(hp),"Class":mobClass, "DEF":int(defense),"MDEF":int(magicDefense),"AGI":int(agi),"DEX":int(dex),"Scale":scale,"Race":race,"Element":calculatedElementSelected, "RMSLink":"https://ratemyserver.net/index.php?page=mob_db&quick=1&mob_name="+str(id)+"&mob_search=Search"})
-                                    #mobs.append((id,name,int(level),calculatedElementSelected))
-                                    #st.write("Name: " + name + ", Race: " + race + ", Element: " + element + ", ElementMod10: " + str(elementMod10))
-                                    printCount+=1 
-                            #except:
-                            #    print("Could not parse level for id " + str(id))
-                            #    print(lines)
-            
+            #race = MobHelper.raceMap[int(lines["Race"])]
+            race = lines["Race"]
+
+            if (elementSelected == 'Any' or elementSelected == calculatedElementSelected):
+                if (raceSelected == 'Any' or raceSelected == race): 
+
+                    if (printCount < maxResults):
+                        #try:
+                            if (int(level) >= minMaxLevel[0] and int(level) <= minMaxLevel[1]):
+                                #name, EXP, HP, DEF, MDEF,Scale,AGI,Base EXP / HP
+                                mobs.append({"ID":id, "Name":name,"Level":int(level),"BaseExp":int(baseExp),"JobExp":int(jobExp),"HP":int(hp),"Class":mobClass, "DEF":int(defense),"MDEF":int(magicDefense),"AGI":int(agi),"DEX":int(dex),"Scale":scale,"Race":race,"Element":calculatedElementSelected, "RMSLink":"https://ratemyserver.net/index.php?page=mob_db&quick=1&mob_name="+str(id)+"&mob_search=Search"})
+                                #mobs.append((id,name,int(level),calculatedElementSelected))
+                                #st.write("Name: " + name + ", Race: " + race + ", Element: " + element + ", ElementMod10: " + str(elementMod10))
+                                printCount+=1 
+                        #except:
+                        #    print("Could not parse level for id " + str(id))
+                        #    print(lines)
+        
 
 #st.table(mobs)
 #st.table(sorted(mobs,key=lambda mob: mob[2], reverse=True))
