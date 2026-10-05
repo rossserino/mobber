@@ -41260,4 +41260,5212 @@ Body:
     Race: Plant
     Element: Wind
     ElementLevel: 4
+  - Id: 1198
+    AegisName: DARK_PRIEST
+    Name: Dark Priest
+    Level: 95
+    Hp: 105000
+    BaseExp: 23200
+    JobExp: 14000
+    Attack: 2000
+    Attack2: 2400
+    Defense: 25
+    MagicDefense: 25
+    Str: 40
+    Agi: 50
+    Vit: 90
+    Int: 220
+    Dex: 125
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Neutral
+    ElementLevel: 1
+    Drops:
+      - Item: Blue Potion
+        Rate: 490
+      - Item: Red Gemstone
+        Rate: 10000
+      - Item: Elunium
+        Rate: 961
+      - Item: LV3 Aspersio Scroll
+        Rate: 728
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Violet Temporal Crystal
+        Rate: 15
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: Blessed Knife [2]
+        Rate: 350
+      - Item: Dark Priest Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2068
+    AegisName: BOITATA
+    Name: Boitata
+    Level: 93
+    Hp: 1283990
+    BaseExp: 742880
+    JobExp: 371440
+    MvpExp: 37144
+    Attack: 3304
+    Attack2: 4266
+    Defense: 32
+    MagicDefense: 66
+    Str: 140
+    Agi: 99
+    Vit: 30
+    Int: 109
+    Dex: 100
+    Luk: 90
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Beast
+    Element: Fire
+    ElementLevel: 3
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Purple Box
+        Rate: 5500
+      - Item: Old Purple Box
+        Rate: 2250
+      - Item: Old Card Album
+        Rate: 450
+    Drops:
+      - Item: Treasure Box
+        Rate: 7500
+      - Item: Hurricane Fury [1]
+        Rate: 100
+      - Item: [Q] Hunting Spear [1]
+        Rate: 100
+      - Item: Yggdrasil Berry
+        Rate: 975
+      - Item: Elunium
+        Rate: 1900
+      - Item: Oridecon
+        Rate: 1900
+      - Item: Hellfire
+        Rate: 100
+      - Item: Boitata Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2069
+    AegisName: IARA
+    Name: Iara
+    Level: 73
+    Hp: 34150
+    BaseExp: 10245
+    JobExp: 8537
+    Attack: 900
+    Attack2: 1300
+    Defense: 27
+    MagicDefense: 73
+    Str: 60
+    Agi: 55
+    Vit: 70
+    Int: 70
+    Dex: 51
+    Luk: 50
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Fish
+    Element: Water
+    ElementLevel: 2
+    Drops:
+      - Item: [M] Mystic Frozen
+        Rate: 25
+      - Item: Heart of Mermaid
+        Rate: 10000
+      - Item: Heart of Mermaid
+        Rate: 10000
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Crystal Mirror
+        Rate: 490
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Kardui Robe [1]
+        Rate: 350
+      - Item: Golden Leaf
+        Rate: 5
+      - Item: Iara Card
+        Rate: 5
+        StealProtected: true
+    - Id: 2070
+    AegisName: PIRANHA
+    Name: Piranha
+    Level: 71
+    Hp: 29750
+    BaseExp: 7933
+    JobExp: 5950
+    Attack: 900
+    Attack2: 1300
+    Defense: 25
+    MagicDefense: 75
+    Str: 65
+    Agi: 64
+    Vit: 50
+    Int: 40
+    Dex: 52
+    Luk: 45
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Fish
+    Element: Water
+    ElementLevel: 2
+    Drops:
+      - Item: Gill
+        Rate: 2661
+      - Item: [M] Mystic Frozen
+        Rate: 25
+      - Item: Sharp Scale
+        Rate: 10000
+      - Item: Ancient Tooth
+        Rate: 2262
+      - Item: Ancient Lips
+        Rate: 2262
+      - Item: Scalpel [3]
+        Rate: 350
+      - Item: Sagittarius Bow [1]
+        Rate: 350
+      - Item: Piranha Carcass
+        Rate: 5
+      - Item: Piranha Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2071
+    AegisName: HEADLESS_MULE
+    Name: Headless Mule
+    Level: 50
+    Hp: 10162
+    BaseExp: 3388
+    JobExp: 2710
+    Attack: 175
+    Attack2: 235
+    Defense: 12
+    MagicDefense: 47
+    Str: 1
+    Agi: 25
+    Vit: 10
+    Int: 35
+    Dex: 10
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Fire
+    ElementLevel: 1
+    Drops:
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: Burning Horseshoe
+        Rate: 9222
+      - Item: Immortal Heart
+        Rate: 10000
+      - Item: Immortal Heart
+        Rate: 10000
+      - Item: Chain Mail [1]
+        Rate: 350
+      - Item: Shiver Katar
+        Rate: 350
+      - Item: Bauxite Knuckle
+        Rate: 350
+      - Item: Headless Mule Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2072
+    AegisName: JAGUAR
+    Name: Jaguar
+    Level: 51
+    Hp: 9616
+    BaseExp: 3365
+    JobExp: 2725
+    Attack: 140
+    Attack2: 285
+    Defense: 15
+    MagicDefense: 48
+    Str: 10
+    Agi: 22
+    Vit: 10
+    Int: 35
+    Dex: 12
+    Luk: 1
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Earth
+    ElementLevel: 1
+    Drops:
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: [Q] Leopard Skin
+        Rate: 8319
+      - Item: Blue Herb
+        Rate: 3409
+      - Item: Rough Oridecon
+        Rate: 198
+      - Item: Dofle Axe
+        Rate: 350
+      - Item: Fortified Book
+        Rate: 350
+      - Item: Jaguar Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2073
+    AegisName: TOUCAN
+    Name: Toucan
+    Level: 52
+    Hp: 10555
+    BaseExp: 3519
+    JobExp: 2814
+    Attack: 160
+    Attack2: 290
+    Defense: 15
+    MagicDefense: 40
+    Str: 20
+    Agi: 29
+    Vit: 20
+    Int: 30
+    Dex: 14
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Wind
+    ElementLevel: 1
+    Drops:
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: [Q] Talon
+        Rate: 8319
+      - Item: Cyfar
+        Rate: 4095
+      - Item: Blue Herb
+        Rate: 2262
+      - Item: White Herb
+        Rate: 10000
+      - Item: Warrior's Balmung
+        Rate: 350
+      - Item: Brute Arc Wand
+        Rate: 350
+      - Item: Delicious Strawberry
+        Rate: 50
+      - Item: Toucan Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2074
+    AegisName: CURUPIRA
+    Name: Curupira
+    Level: 51
+    Hp: 10137
+    BaseExp: 3379
+    JobExp: 2704
+    Attack: 150
+    Attack2: 270
+    Defense: 50
+    MagicDefense: 8
+    Str: 20
+    Agi: 24
+    Vit: 20
+    Int: 30
+    Dex: 16
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Earth
+    ElementLevel: 1
+    Drops:
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: Rough Elunium
+        Rate: 1189
+      - Item: Fabric
+        Rate: 10000
+      - Item: Empty Bottle
+        Rate: 10000
+      - Item: Yellow Gemstone
+        Rate: 5563
+      - Item: Brute Damascus
+        Rate: 350
+      - Item: Curupira Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2198
+    AegisName: KING_DRAMOH
+    Name: King Dramoh
+    JapaneseName: King Kray
+    Level: 93
+    Hp: 78800
+    BaseExp: 11501
+    JobExp: 20326
+    Attack: 2016
+    Attack2: 2314
+    Defense: 56
+    MagicDefense: 37
+    Str: 100
+    Agi: 170
+    Vit: 30
+    Int: 180
+    Dex: 130
+    Luk: 60
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Fish
+    Element: Water
+    ElementLevel: 3
+    Drops:
+      - Item: Sapphire
+        Rate: 432
+      - Item: Aquamarine
+        Rate: 591
+      - Item: Karvodailnirol
+        Rate: 394
+      - Item: [M] Mystic Frozen
+        Rate: 296
+      - Item: Elunium
+        Rate: 1144
+      - Item: Aegirnion Helm [1]
+        Rate: 15
+      - Item: Aegirnion Necklace
+        Rate: 10
+      - Item: King Dramoh Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2201
+    AegisName: SROPHO
+    Name: Sropho
+    Level: 93
+    Hp: 76000
+    BaseExp: 11040
+    JobExp: 20800
+    Attack: 1790
+    Attack2: 2016
+    Defense: 45
+    MagicDefense: 30
+    Str: 30
+    Agi: 67
+    Vit: 34
+    Int: 160
+    Dex: 147
+    Luk: 110
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Fish
+    Element: Water
+    ElementLevel: 3
+    Drops:
+      - Item: Sapphire
+        Rate: 432
+      - Item: [M] Mystic Frozen
+        Rate: 296
+      - Item: Crystal Arrow Quiver
+        Rate: 223
+      - Item: Oridecon
+        Rate: 1144
+      - Item: Karvodailnirol
+        Rate: 394
+      - Item: Electric Eel [2]
+        Rate: 350
+      - Item: Aegirnion Manteau [1]
+        Rate: 350
+      - Item: Sropho Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2202
+    AegisName: KRAKEN
+    Name: Kraken
+    Level: 99
+    Hp: 5602800
+    BaseExp: 1774220
+    JobExp: 2054360
+    MvpExp: 1432777
+    Attack: 4823
+    Attack2: 7162
+    Defense: 55
+    MagicDefense: 60
+    Str: 96
+    Agi: 99
+    Vit: 20
+    Int: 136
+    Dex: 162
+    Luk: 99
+    AttackRange: 3
+    SkillRange: 14
+    ChaseRange: 12
+    Size: Large
+    Race: Fish
+    Element: Water
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Card Album
+        Rate: 5000
+      - Item: Yggdrasil Berry
+        Rate: 2500
+      - Item: Old Purple Box
+        Rate: 625
+    Drops:
+      - Item: Manteau of Mystic Frozen [1]
+        Rate: 6000
+      - Item: [Q] Cardo [1]
+        Rate: 1500
+      - Item: Ice Falchion
+        Rate: 3000
+      - Item: [Q] Hunting Spear [1]
+        Rate: 1500
+      - Item: Water Spirit Armor [1]
+        Rate: 1000
+      - Item: Treasure Box
+        Rate: 10000
+      - Item: [M] Mystic Frozen
+        Rate: 3600
+      - Item: Kraken Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2203
+    AegisName: POT_DOFLE
+    Name: Pot Dofle
+    Level: 95
+    Hp: 75756
+    BaseExp: 11000
+    JobExp: 20726
+    Attack: 1500
+    Attack2: 1879
+    Defense: 35
+    MagicDefense: 55
+    Str: 33
+    Agi: 80
+    Vit: 29
+    Int: 150
+    Dex: 114
+    Luk: 100
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Fish
+    Element: Water
+    ElementLevel: 3
+    Drops:
+      - Item: Sapphire
+        Rate: 432
+      - Item: [M] Coral Reef
+        Rate: 7927
+      - Item: [M] Mystic Frozen
+        Rate: 321
+      - Item: Aquamarine
+        Rate: 1034
+      - Item: Old Blue Box
+        Rate: 442
+      - Item: Oridecon
+        Rate: 1144
+      - Item: Karvodailnirol
+        Rate: 394
+      - Item: Aegirnion Shoes [1]
+        Rate: 350
+      - Item: Pot Dofle Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2204
+    AegisName: SEDORA
+    Name: Sedora
+    Level: 90
+    Hp: 84632
+    BaseExp: 12463
+    JobExp: 22389
+    Attack: 2395
+    Attack2: 3164
+    Defense: 51
+    MagicDefense: 31
+    Str: 80
+    Agi: 16
+    Vit: 29
+    Int: 146
+    Dex: 141
+    Luk: 130
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Fish
+    Element: Water
+    ElementLevel: 4
+    Drops:
+      - Item: Glass Bead
+        Rate: 3760
+      - Item: [M] Mystic Frozen
+        Rate: 321
+      - Item: Sapphire
+        Rate: 442
+      - Item: Elunium
+        Rate: 1144
+      - Item: Barbeque Squid
+        Rate: 50
+      - Item: Costume Sedora Hat
+        Rate: 10
+      - Item: Aegirnion Armor [1]
+        Rate: 350
+      - Item: Sedora Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2255
+    AegisName: KADES
+    Name: Warden Kades
+    Level: 99
+    Hp: 1500000
+    BaseExp: 400000
+    JobExp: 350000
+    Attack: 4000
+    Attack2: 5600
+    Defense: 80
+    MagicDefense: 80
+    Str: 80
+    Agi: 50
+    Vit: 110
+    Int: 150
+    Dex: 150
+    Luk: 50
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Ghost
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Key of Clock Tower
+        Rate: 10000
+      - Item: Key of Underground
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 9730
+      - Item: Elunium
+        Rate: 9730
+      - Item: Old Card Album
+        Rate: 15
+      - Item: Kingdom Keyblade [2]
+        Rate: 8750
+      - Item: Ring of Mimir [1]
+        Rate: 45
+      - Item: Warden Kades Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2475
+    AegisName: MG_CORRUPTION_ROOT
+    Name: Root of Corruption
+    Level: 90
+    Hp: 12000000
+    BaseExp: 2500000
+    JobExp: 1500000
+    Attack: 18000
+    Attack2: 24000
+    Defense: 1
+    MagicDefense: 1
+    Str: 10
+    Agi: 20
+    Vit: 25
+    Int: 250
+    Dex: 200
+    Luk: 20
+    AttackRange: 14
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Earth
+    ElementLevel: 3
+    Class: Boss
+    Modes:
+      Mvp: True
+    Drops:
+      - Item: Yggdrasil Berry
+        Rate: 5000
+      - Item: Old Purple Box
+        Rate: 2500
+      - Item: Old Blue Box
+        Rate: 2500
+      - Item: HD Oridecon
+        Rate: 1536
+      - Item: HD Elunium
+        Rate: 5100
+      - Item: Old Card Album
+        Rate: 8400
+      - Item: Imperial Clergy Robe [1]
+        Rate: 5000
+      - Item: Royal Alchemy Staff [1]
+        Rate: 1000
+      - Item: Alchemy Glove [1]
+        Rate: 500
+      - Item: Corruption Root Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2476
+    AegisName: MG_AMDARAIS
+    Name: Enraged Amdarais
+    Level: 110
+    Hp: 5000000
+    Attack: 20000
+    Attack2: 23000
+    Resistance: 40
+    MagicResistance: 20
+    Str: 120
+    Agi: 39
+    Vit: 90
+    Int: 250
+    Dex: 800
+    Luk: 20
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Undead
+    Element: Undead
+    ElementLevel: 4
+    Class: Boss
+      Mvp: True
+  - Id: 2916
+    AegisName: BIG_BEN
+    Name: Big Ben
+    Level: 80
+    Hp: 41240
+    BaseExp: 26118
+    JobExp: 13785
+    Attack: 680
+    Attack2: 900
+    Defense: 35
+    MagicDefense: 10
+    Str: 20
+    Agi: 28
+    Vit: 69
+    Int: 75
+    Dex: 61
+    Luk: 49
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Dark
+    ElementLevel: 4
+    Drops:
+      - Item: Needle of Alarm
+        Rate: 8319
+      - Item: Cluster of Poison Spores
+        Rate: 5000
+      - Item: Blue Herb
+        Rate: 3929
+      - Item: Grape
+        Rate: 1189
+      - Item: Twisted Time Key
+        Rate: 75
+      - Item: Elunium
+        Rate: 1413
+      - Item: Clock Gear
+        Rate: 8000
+      - Item: Big Ben Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2917
+    AegisName: BIG_BELL
+    Name: Big Bell
+    Level: 80
+    Hp: 30160
+    BaseExp: 19101
+    JobExp: 15965
+    Attack: 590
+    Attack2: 620
+    Defense: 15
+    MagicDefense: 20
+    Str: 1
+    Agi: 54
+    Vit: 72
+    Int: 85
+    Dex: 86
+    Luk: 57
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Neutral
+    ElementLevel: 4
+    Drops:
+      - Item: Needle of Alarm
+        Rate: 8319
+      - Item: [Q] Skull
+        Rate: 3228
+      - Item: Oridecon
+        Rate: 961
+      - Item: Cluster of Poison Spores
+        Rate: 3000
+      - Item: Twisted Time Key
+        Rate: 50
+      - Item: Zargon
+        Rate: 3228
+      - Item: Clock Gear
+        Rate: 4000
+      - Item: Beelzebub Wing Box (2 Hours)
+        Rate: 10
+      - Item: Big Bell Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2918
+    AegisName: TIME_KEEPER
+    Name: Time Keeper
+    Level: 165
+    Hp: 206000
+    BaseExp: 120000
+    JobExp: 100000
+    Attack: 2989
+    Attack2: 3150
+    Defense: 55
+    MagicDefense: 70
+    Str: 20
+    Agi: 60
+    Vit: 72
+    Int: 160
+    Dex: 120
+    Luk: 77
+    AttackRange: 3
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Neutral
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Time Keeper Shield [1]
+        Rate: 15
+      - Item: Twisted Time Key
+        Rate: 2710
+      - Item: Twisted Time Key
+        Rate: 2710
+      - Item: Clock Gear
+        Rate: 10000
+      - Item: Time Keeper Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2919
+    AegisName: NEO_PUNK
+    Name: Neo Punk
+    Level: 80
+    Hp: 41760
+    BaseExp: 25056
+    JobExp: 24221
+    Attack: 563
+    Attack2: 825
+    Defense: 30
+    MagicDefense: 40
+    Str: 20
+    Agi: 39
+    Vit: 30
+    Int: 80
+    Dex: 45
+    Luk: 45
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Plant
+    Element: Dark
+    ElementLevel: 2
+    Drops:
+      - Item: Yellow Gemstone
+        Rate: 10000
+      - Item: Yellow Gemstone
+        Rate: 10000
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 5000
+      - Item: Moth Dust
+        Rate: 5563
+      - Item: Oridecon
+        Rate: 728
+      - Item: Clock Gear
+        Rate: 8000
+      - Item: Neo Punk Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2920
+    AegisName: ARC_ELDER
+    Name: Arc Elder
+    Level: 88
+    Hp: 233543
+    BaseExp: 140000
+    JobExp: 130000
+    Attack: 2800
+    Attack2: 3100
+    Defense: 20
+    MagicDefense: 80
+    Str: 20
+    Agi: 83
+    Vit: 35
+    Int: 250
+    Dex: 120
+    Luk: 150
+    AttackRange: 3
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demihuman
+    Element: Neutral
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Arc Bible [2]
+        Rate: 60
+      - Item: Old Card Album
+        Rate: 6
+      - Item: Twisted Time Key
+        Rate: 3859
+      - Item: Clock Gear
+        Rate: 10000
+      - Item: Arc Elder Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2921
+    AegisName: OWL_VISCOUNT
+    Name: Owl Viscount
+    Level: 168
+    Hp: 295240
+    BaseExp: 180000
+    JobExp: 165000
+    Attack: 3872
+    Attack2: 4250
+    Defense: 70
+    MagicDefense: 70
+    Str: 20
+    Agi: 50
+    Vit: 45
+    Int: 200
+    Dex: 300
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Earth
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: [M] Soft Feather
+        Rate: 2710
+      - Item: [P] Pocket Watch
+        Rate: 6
+      - Item: Quadrille [1]
+        Rate: 60
+      - Item: Clock Gear
+        Rate: 10000
+      - Item: Lounge Suit [1]
+        Rate: 2710
+      - Item: Owl Viscount Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2923
+    AegisName: OWL_MARQUEES
+    Name: Owl Marquis
+    Level: 90
+    Hp: 630000
+    BaseExp: 500000
+    JobExp: 480000
+    Attack: 6000
+    Attack2: 8000
+    Defense: 80
+    MagicDefense: 30
+    Str: 50
+    Agi: 65
+    Vit: 120
+    Int: 300
+    Dex: 150
+    Luk: 200
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Poison
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: Cluster of Poison Spores
+        Rate: 10000
+      - Item: [M] Soft Feather
+        Rate: 2710
+      - Item: [Q] Gakkung [2]
+        Rate: 2710
+      - Item: [Q] Soul Staff
+        Rate: 2710
+      - Item: Monocle [1]
+        Rate: 3
+      - Item: Clock Gear
+        Rate: 10000
+      - Item: Lounge Suit [1]
+        Rate: 4880
+      - Item: Owl Marquees Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2987
+    AegisName: XM_TREE
+    Name: Decorated Evil Tree
+    Level: 98
+    Hp: 93772
+    BaseExp: 36570
+    JobExp: 44697
+    Attack: 1700
+    Attack2: 2500
+    Defense: 21
+    MagicDefense: 20
+    Str: 44
+    Agi: 51
+    Vit: 44
+    Int: 184
+    Dex: 84
+    Luk: 44
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Undead
+    ElementLevel: 4
+    Drops:
+      - Item: [Q] Hung Doll
+        Rate: 3760
+      - Item: Decomposed Rope
+        Rate: 7881
+      - Item: Old Purple Box
+        Rate: 198
+      - Item: Holly Sprig
+        Rate: 10000
+      - Item: Soul Stick
+        Rate: 350
+      - Item: Dead Branch
+        Rate: 961
+      - Item: Winter Event Costume Egg
+        Rate: 100
+      - Item: Bloody Branch
+        Rate: 5
+      - Item: Decorated Evil Tree Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2988
+    AegisName: XM_ANTONIO
+    Name: Wicked Vice Manager
+    Level: 75
+    Hp: 33167
+    BaseExp: 15809
+    JobExp: 21557
+    Attack: 837
+    Attack2: 989
+    Defense: 16
+    MagicDefense: 20
+    Str: 44
+    Agi: 30
+    Vit: 44
+    Int: 64
+    Dex: 45
+    Luk: 44
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Dark
+    ElementLevel: 2
+    Drops:
+      - Item: Red Stocking
+        Rate: 6723
+      - Item: Zargon
+        Rate: 9688
+      - Item: Oridecon
+        Rate: 610
+      - Item: Holly Sprig
+        Rate: 6000
+      - Item: Fried Scorpion Tails
+        Rate: 490
+      - Item: Candy Bag Backpack [1]
+        Rate: 350
+      - Item: Winter Event Costume Egg
+        Rate: 50
+      - Item: Old Blue Box
+        Rate: 586
+      - Item: Antonio Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2989
+    AegisName: XM_COOKIE
+    Name: Vicious Cookie
+    Level: 74
+    Hp: 31149
+    BaseExp: 14847
+    JobExp: 20246
+    Attack: 980
+    Attack2: 1050
+    Defense: 27
+    MagicDefense: 20
+    Str: 44
+    Agi: 18
+    Vit: 44
+    Int: 80
+    Dex: 50
+    Luk: 44
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Dark
+    ElementLevel: 2
+    Drops:
+      - Item: [M] Mould Powder
+        Rate: 6723
+      - Item: Garnet
+        Rate: 490
+      - Item: [M] Well Baked Cookie
+        Rate: 2262
+      - Item: Elunium
+        Rate: 610
+      - Item: Holly Sprig
+        Rate: 6000
+      - Item: Toy Ring [1]
+        Rate: 5
+      - Item: LV3 Aspersio Scroll
+        Rate: 149
+      - Item: Winter Event Costume Egg
+        Rate: 50
+      - Item: Vicious Cookie Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2990
+    AegisName: XM_CRUISER
+    Name: Corrupt Cruiser
+    Level: 75
+    Hp: 34964
+    BaseExp: 21211
+    JobExp: 26105
+    Attack: 900
+    Attack2: 1142
+    Defense: 24
+    MagicDefense: 20
+    Str: 44
+    Agi: 35
+    Vit: 44
+    Int: 44
+    Dex: 60
+    Luk: 44
+    AttackRange: 12
+    SkillRange: 16
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Undead
+    ElementLevel: 2
+    Drops:
+      - Item: [M] Manacles
+        Rate: 6723
+      - Item: Rough Wind
+        Rate: 50
+      - Item: Oridecon
+        Rate: 610
+      - Item: Holly Sprig
+        Rate: 6000
+      - Item: Southern Cross [2]
+        Rate: 350
+      - Item: Old Blue Box
+        Rate: 586
+      - Item: Winter Event Costume Egg
+        Rate: 50
+      - Item: Corrupt Cruiser Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2991
+    AegisName: XM_MYSTCASE
+    Name: Evil Dwelling Box
+    Level: 88
+    Hp: 139116
+    BaseExp: 40574
+    JobExp: 48689
+    Attack: 2000
+    Attack2: 2500
+    Defense: 37
+    MagicDefense: 20
+    Str: 10
+    Agi: 66
+    Vit: 44
+    Int: 130
+    Dex: 94
+    Luk: 44
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Dark
+    ElementLevel: 3
+    Drops:
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Elunium
+        Rate: 490
+      - Item: Lutie Cold Noodle
+        Rate: 149
+      - Item: [M] Piece of Cake
+        Rate: 2661
+      - Item: Holly Sprig
+        Rate: 10000
+      - Item: Holly Sprig
+        Rate: 5000
+      - Item: Fallen Leaves Branch
+        Rate: 25
+      - Item: Winter Event Costume Egg
+        Rate: 300
+      - Item: Evil Dwelling Box Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2992
+    AegisName: XM_LUDE
+    Name: Creepy Demon
+    Level: 85
+    Hp: 115444
+    BaseExp: 33670
+    JobExp: 40404
+    Attack: 1100
+    Attack2: 1350
+    Defense: 25
+    MagicDefense: 90
+    Str: 10
+    Agi: 34
+    Vit: 44
+    Int: 44
+    Dex: 57
+    Luk: 44
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Dark
+    ElementLevel: 3
+    Drops:
+      - Item: Empty Bottle
+        Rate: 10000
+      - Item: Empty Bottle
+        Rate: 10000
+      - Item: Wad of Fabric
+        Rate: 10000
+      - Item: Steamed Ancient Lips
+        Rate: 149
+      - Item: Oridecon
+        Rate: 490
+      - Item: Holly Sprig
+        Rate: 5000
+      - Item: Old Red Box
+        Rate: 100
+      - Item: Old Purple Box
+        Rate: 198
+      - Item: Winter Event Costume Egg
+        Rate: 300
+      - Item: Creepy Demon Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2993
+    AegisName: XM_HYLOZOIST
+    Name: Malicious Baby Ghost
+    Level: 90
+    Hp: 138835
+    BaseExp: 40492
+    JobExp: 48591
+    Attack: 1850
+    Attack2: 1900
+    Defense: 32
+    MagicDefense: 38
+    Str: 10
+    Agi: 66
+    Vit: 66
+    Int: 206
+    Dex: 101
+    Luk: 66
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Ghost
+    ElementLevel: 1
+    Drops:
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Morocc Fruit Wine
+        Rate: 149
+      - Item: Elunium
+        Rate: 490
+      - Item: Holly Sprig
+        Rate: 10000
+      - Item: Holly Sprig
+        Rate: 5000
+      - Item: Ruby
+        Rate: 3760
+      - Item: Platinum Bullion
+        Rate: 25
+      - Item: Winter Event Costume Egg
+        Rate: 300
+      - Item: Malicious Baby Ghost Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2994
+    AegisName: XM_MARIONETTE
+    Name: Dancing Marionette
+    Level: 88
+    Hp: 148755
+    BaseExp: 43386
+    JobExp: 52063
+    Attack: 1600
+    Attack2: 1750
+    Defense: 35
+    MagicDefense: 45
+    Str: 10
+    Agi: 84
+    Vit: 44
+    Int: 244
+    Dex: 93
+    Luk: 44
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demihuman
+    Element: Ghost
+    ElementLevel: 1
+    Drops:
+      - Item: Witch Starsand
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 490
+      - Item: Seasoned Jellyfish
+        Rate: 149
+      - Item: Holly Sprig
+        Rate: 10000
+      - Item: Holly Sprig
+        Rate: 5000
+      - Item: Old Red Box
+        Rate: 100
+      - Item: Old Purple Box
+        Rate: 198
+      - Item: Platinum Bullion
+        Rate: 25
+      - Item: Winter Event Costume Egg
+        Rate: 300
+      - Item: Dancing Marionette Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2995
+    AegisName: XM_TEDDY_BEAR
+    Name: Abandoned Teddy Bear
+    Level: 105
+    Hp: 155729
+    BaseExp: 54503
+    JobExp: 63588
+    Attack: 3235
+    Attack2: 3803
+    Defense: 35
+    MagicDefense: 45
+    Str: 10
+    Agi: 86
+    Vit: 44
+    Int: 94
+    Dex: 126
+    Luk: 44
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Beast
+    Element: Undead
+    ElementLevel: 4
+    Drops:
+      - Item: White Herb
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: Elunium
+        Rate: 490
+      - Item: Herb Marinade Beef
+        Rate: 149
+      - Item: Holly Sprig
+        Rate: 10000
+      - Item: Holly Sprig
+        Rate: 5000
+      - Item: Platinum Bullion
+        Rate: 25
+      - Item: Winter Event Costume Egg
+        Rate: 300
+      - Item: Abandoned Teddy Bear Card
+        Rate: 5
+        StealProtected: true
+  - Id: 2996
+    AegisName: XM_CELINE_KIMI
+    Name: Celine Kimi
+    Level: 110
+    Hp: 9000000
+    BaseExp: 3000000
+    JobExp: 3500000
+    MvpExp: 500000
+    Attack: 21000
+    Attack2: 27000
+    Defense: 1
+    MagicDefense: 1
+    Resistance: 40
+    MagicResistance: 40
+    Str: 1
+    Agi: 50
+    Vit: 150
+    Int: 230
+    Dex: 250
+    Luk: 166
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Ghost
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Purple Box
+        Rate: 5000
+      - Item: Old Card Album
+        Rate: 2500
+      - Item: Mystical Card Album
+        Rate: 250
+    Drops:
+      - Item: HD Oridecon
+        Rate: 975
+      - Item: HD Elunium
+        Rate: 4375
+      - Item: Guardian Staff [1]
+        Rate: 3000
+      - Item: Celine Dress [1]
+        Rate: 2000
+      - Item: Evil Spirit Glove [1]
+        Rate: 500
+      - Item: Winter Event Costume Egg
+        Rate: 10000
+      - Item: Celine Kimi Card
+        Rate: 1
+        StealProtected: true
+  - Id: 2997
+    AegisName: G_XM_CELINE_KIMI
+    Name: Kimi's Phantom
+    Level: 110
+    Hp: 9000000
+    BaseExp: 3000000
+    JobExp: 3500000
+    MvpExp: 500000
+    Attack: 21000
+    Attack2: 27000
+    Defense: 1
+    MagicDefense: 1
+    Resistance: 40
+    MagicResistance: 40
+    Str: 1
+    Agi: 50
+    Vit: 150
+    Int: 230
+    Dex: 250
+    Luk: 166
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Ghost
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+  - Id: 3030
+    AegisName: STANDING_SOUL
+    Name: Standing Soul
+    Level: 90
+    Hp: 110000
+    BaseExp: 24000
+    JobExp: 13500
+    Attack: 1300
+    Attack2: 1700
+    Defense: 40
+    MagicDefense: 25
+    Str: 50
+    Agi: 50
+    Vit: 90
+    Int: 120
+    Dex: 115
+    Luk: 40
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Ghost
+    ElementLevel: 4
+    Drops:
+      - Item: Dark Crystal Fragment
+        Rate: 9497
+      - Item: Elunium
+        Rate: 961
+      - Item: Sesame Pastry
+        Rate: 728
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Cerulean Temporal Crystal
+        Rate: 15
+      - Item: Crimson Temporal Crystal
+        Rate: 5
+      - Item: Spectral Manteau [1]
+        Rate: 350
+      - Item: Standing Soul Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3150
+    AegisName: MG_AMDARAIS_H
+    Name: Amdarais
+    Level: 99
+    Hp: 7000000
+    Attack: 60000
+    Attack2: 60001
+    Resistance: 12
+    MagicResistance: 40
+    Str: 135
+    Agi: 16
+    Vit: 70
+    Int: 200
+    Dex: 800
+    Luk: 90
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Water
+    ElementLevel: 3
+    Class: Boss
+    Modes:
+      Mvp: True
+  - Id: 3191
+    AegisName: MM_M_GIGAN1
+    Name: Gigantes
+    Level: 90
+    Hp: 68000
+    BaseExp: 54400
+    JobExp: 45334
+    Attack: 1300
+    Attack2: 1500
+    Defense: 20
+    MagicDefense: 50
+    Str: 40
+    Agi: 30
+    Vit: 1
+    Int: 1
+    Dex: 105
+    Luk: 25
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Beast
+    Element: Neutral
+    ElementLevel: 2
+    Drops:
+      - Item: Old Blue Box
+        Rate: 2262
+      - Item: Oridecon
+        Rate: 1846
+      - Item: Big Defense Potion
+        Rate: 728
+      - Item: Topaz
+        Rate: 3043
+      - Item: Box of Coagulated Spells
+        Rate: 10000
+      - Item: Violet Temporal Crystal
+        Rate: 10
+      - Item: Shadow Temporal Crystal
+        Rate: 10
+      - Item: Viridian Temporal Crystal
+        Rate: 5
+      - Item: Gigantes Armor [1]
+        Rate: 350
+      - Item: Gigantes Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3194
+    AegisName: MM_L_GIGAN1
+    Name: Gigantes
+    Level: 90
+    Hp: 68000
+    BaseExp: 54400
+    JobExp: 45334
+    Attack: 1200
+    Attack2: 1600
+    Defense: 20
+    MagicDefense: 40
+    Str: 40
+    Agi: 35
+    Vit: 1
+    Int: 1
+    Dex: 105
+    Luk: 25
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Beast
+    Element: Neutral
+    ElementLevel: 2
+    Drops:
+      - Item: Old Blue Box
+        Rate: 2262
+      - Item: Oridecon
+        Rate: 1846
+      - Item: Topaz
+        Rate: 3043
+      - Item: Box of Coagulated Spells
+        Rate: 10000
+      - Item: Violet Temporal Crystal
+        Rate: 10
+      - Item: Shadow Temporal Crystal
+        Rate: 10
+      - Item: Viridian Temporal Crystal
+        Rate: 5
+      - Item: Gigantes Pauldron [1]
+        Rate: 350
+      - Item: Fallen Leaves Branch
+        Rate: 5
+      - Item: Gigantes Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3452
+    AegisName: ZOMBIE_GUARD
+    Name: Zombie Guard
+    Level: 90
+    Hp: 82500
+    BaseExp: 56375
+    JobExp: 45375
+    Attack: 2600
+    Attack2: 3400
+    Defense: 27
+    MagicDefense: 35
+    Str: 70
+    Agi: 70
+    Vit: 110
+    Int: 223
+    Dex: 170
+    Luk: 30
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Dark
+    ElementLevel: 2
+    Drops:
+      - Item: [M] Clattering Skull
+        Rate: 8840
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: 1carat Diamond
+        Rate: 2661
+      - Item: Oridecon
+        Rate: 1413
+      - Item: Vassalage Necklace
+        Rate: 5
+      - Item: Crimson Temporal Crystal
+        Rate: 15
+      - Item: Ivory Temporal Crystal
+        Rate: 5
+      - Item: Zombie Guard Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3495
+    AegisName: DR_EGGRING
+    Name: Eggring
+    Level: 20
+    Hp: 5514
+    BaseExp: 1617
+    JobExp: 1029
+    Attack: 51
+    Attack2: 67
+    Defense: 10
+    MagicDefense: 15
+    Str: 6
+    Agi: 20
+    Vit: 1
+    Int: 20
+    Dex: 6
+    Luk: 4
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Plant
+    Element: Wind
+    ElementLevel: 1
+    Drops:
+      - Item: Old Frying Pan
+        Rate: 10000
+      - Item: Orange
+        Rate: 3409
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: Blue Herb
+        Rate: 961
+      - Item: Rough Elunium
+        Rate: 442
+      - Item: Lemon Dyestuffs
+        Rate: 345
+      - Item: Newbie Inn Voucher
+        Rate: 149
+      - Item: Elemental Converter[Wind]
+        Rate: 100
+      - Item: Eggring Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3496
+    AegisName: DR_LUNATIC
+    Name: Leaf Lunatic
+    Level: 21
+    Hp: 2570
+    BaseExp: 778
+    JobExp: 617
+    Attack: 51
+    Attack2: 69
+    Defense: 1
+    MagicDefense: 15
+    Str: 10
+    Agi: 22
+    Vit: 25
+    Int: 1
+    Dex: 25
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Beast
+    Element: Neutral
+    ElementLevel: 3
+    Drops:
+      - Item: Aloe Leaflet
+        Rate: 10000
+      - Item: Orange
+        Rate: 2661
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: Blue Herb
+        Rate: 868
+      - Item: Rough Oridecon
+        Rate: 345
+      - Item: Darkgreen Dyestuffs
+        Rate: 248
+      - Item: Newbie Inn Voucher
+        Rate: 149
+      - Item: Four Leaf Clover
+        Rate: 25
+      - Item: [Q] Clown Nose
+        Rate: 20
+      - Item: [Q] Leaf Lunatic Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3500
+    AegisName: DR_DESERT_WOLF_B
+    Name: Hunter Wolf
+    Level: 30
+    Hp: 4437
+    BaseExp: 651
+    JobExp: 1415
+    Attack: 95
+    Attack2: 115
+    Defense: 10
+    MagicDefense: 17
+    Str: 20
+    Agi: 47
+    Vit: 12
+    Int: 30
+    Dex: 19
+    Luk: 20
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Beast
+    Element: Fire
+    ElementLevel: 1
+    Drops:
+      - Item: Zargon
+        Rate: 10000
+      - Item: Can of Anchovies
+        Rate: 2661
+      - Item: Orange
+        Rate: 2661
+      - Item: White Herb
+        Rate: 1413
+      - Item: Rough Elunium
+        Rate: 394
+      - Item: [M] Well
+        Rate: Dried Bone
+      - Item: 248
+        Rate: [Q] Fresh Tuna Talisman [1]
+      - Item: 25
+        Rate: Hunter Wolf Card
+      - Item: 5
+        StealProtected: true
+  - Id: 3501
+    AegisName: DR_SPORE
+    Name: Trans Spore
+    Level: 51
+    Hp: 9313
+    BaseExp: 2903
+    JobExp: 2374
+    Attack: 210
+    Attack2: 325
+    Defense: 15
+    MagicDefense: 93
+    Str: 13
+    Agi: 40
+    Vit: 10
+    Int: 30
+    Dex: 30
+    Luk: 1
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Plant
+    Element: Water
+    ElementLevel: 1
+    Drops:
+      - Item: Soft Blade of Grass
+        Rate: 10000
+      - Item: Can of Anchovies
+        Rate: 4095
+      - Item: Blue Herb
+        Rate: 2262
+      - Item: Cluster of Poison Spores
+        Rate: 2000
+      - Item: Rough Oridecon
+        Rate: 514
+      - Item: Rough Elunium
+        Rate: 514
+      - Item: Spore Doll
+        Rate: 728
+      - Item: Elemental Converter[Water]
+        Rate: 223
+      - Item: White Eco Shirt [1]
+        Rate: 350
+      - Item: Trans Spore Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3502
+    AegisName: DR_BASILISK1
+    Name: Scout Basilisk
+    Level: 50
+    Hp: 9543
+    BaseExp: 2799
+    JobExp: 2290
+    Attack: 125
+    Attack2: 200
+    Defense: 10
+    MagicDefense: 95
+    Str: 1
+    Agi: 20
+    Vit: 10
+    Int: 25
+    Dex: 10
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Water
+    ElementLevel: 1
+    Drops:
+      - Item: Dragon Canine
+        Rate: 10000
+      - Item: Can of Anchovies
+        Rate: 4095
+      - Item: Rough Oridecon
+        Rate: 490
+      - Item: Rough Elunium
+        Rate: 490
+      - Item: 1carat Diamond
+        Rate: 442
+      - Item: Elemental Converter[Water]
+        Rate: 198
+      - Item: [M] Basil
+        Rate: 149
+      - Item: Large Foxtail Staff [2]
+        Rate: 350
+      - Item: Scout Basilisk Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3503
+    AegisName: DR_BASILISK2
+    Name: Combat Basilisk
+    Level: 93
+    Hp: 47652
+    BaseExp: 33356
+    JobExp: 27002
+    Attack: 1237
+    Attack2: 1427
+    Defense: 49
+    MagicDefense: 30
+    Str: 64
+    Agi: 45
+    Vit: 21
+    Int: 70
+    Dex: 106
+    Luk: 16
+    AttackRange: 3
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Fire
+    ElementLevel: 2
+    Drops:
+      - Item: [M] Dragon Scale
+        Rate: 10000
+      - Item: Elunium
+        Rate: 961
+      - Item: Oridecon
+        Rate: 961
+      - Item: Old Blue Box
+        Rate: 490
+      - Item: Yggdrasil Berry
+        Rate: 394
+      - Item: [M] Basil
+        Rate: 321
+      - Item: Elegant Shoes [1]
+        Rate: 350
+      - Item: Combat Basilisk Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3504
+    AegisName: DR_BASILISK3
+    Name: Charge Basilisk
+    Level: 158
+    Hp: 83018
+    BaseExp: 27120
+    JobExp: 22414
+    Attack: 1190
+    Attack2: 1345
+    Defense: 59
+    MagicDefense: 40
+    Str: 60
+    Agi: 2
+    Vit: 8
+    Int: 150
+    Dex: 66
+    Luk: 15
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Wind
+    ElementLevel: 4
+    Drops:
+      - Item: [M] Dragon Tail
+        Rate: 10000
+      - Item: Yggdrasil Berry
+        Rate: 490
+      - Item: Old Blue Box
+        Rate: 1846
+      - Item: Oridecon
+        Rate: 1144
+      - Item: Elunium
+        Rate: 1144
+      - Item: [M] Basil
+        Rate: 1189
+      - Item: Elegant Manteau [1]
+        Rate: 350
+      - Item: [Q] Raksasa Dagger
+        Rate: 350
+      - Item: Charge Basilisk Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3505
+    AegisName: DR_BIG_EGGRING
+    Name: Big Eggring
+    Level: 95
+    Hp: 7134400
+    BaseExp: 3210480
+    JobExp: 2760060
+    MvpExp: 1295910
+    Attack: 4500
+    Attack2: 5500
+    Defense: 70
+    MagicDefense: 5
+    Str: 68
+    Agi: 12
+    Vit: 120
+    Int: 150
+    Dex: 158
+    Luk: 57
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 12
+    Size: Medium
+    Race: Plant
+    Element: Wind
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Purple Box
+        Rate: 5000
+      - Item: Old Blue Box
+        Rate: 2500
+      - Item: Yggdrasil Berry
+        Rate: 2500
+    Drops:
+      - Item: Wind Spirit Armor
+        Rate: 1000
+      - Item: Old Card Album
+        Rate: 6400
+      - Item: Costume Lightning Cloud
+        Rate: 1500
+      - Item: Schweizersabel [2]
+        Rate: 5000
+      - Item: Manteau of Rough Wind [1]
+        Rate: 1000
+      - Item: Wind Spirit Armor [1]
+        Rate: 300
+      - Item: Big Eggring Card
+        Rate: 1
+        StealProtected: true
+  - Id: 3506
+    AegisName: DR_MANDRAGORA
+    Name: Jungle Mandragora
+    Level: 144
+    Hp: 830458
+    BaseExp: 131489
+    JobExp: 94119
+    Attack: 3016
+    Attack2: 3567
+    Defense: 60
+    MagicDefense: 20
+    Str: 149
+    Agi: 38
+    Vit: 15
+    Int: 202
+    Dex: 124
+    Luk: 395
+    AttackRange: 15
+    SkillRange: 15
+    ChaseRange: 15
+    Size: Large
+    Race: Plant
+    Element: Wind
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Bundle of Stems
+        Rate: 10000
+      - Item: Old Blue Box
+        Rate: 731
+      - Item: Elunium
+        Rate: 1426
+      - Item: Oridecon
+        Rate: 1426
+      - Item: Mandragora Cap [1]
+        Rate: 297
+      - Item: Fantastic Cooking Kit
+        Rate: 1014
+      - Item: Exquisite Yellow Foxtail Staff [1]
+        Rate: 176
+      - Item: Jungle Mandragora Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3507
+    AegisName: DR_POM_SPIDER
+    Name: Fruit Pom Spider
+    Level: 94
+    Hp: 46143
+    BaseExp: 31531
+    JobExp: 29223
+    Attack: 909
+    Attack2: 1327
+    Defense: 51
+    MagicDefense: 30
+    Str: 30
+    Agi: 75
+    Vit: 9
+    Int: 100
+    Dex: 106
+    Luk: 90
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Insect
+    Element: Earth
+    ElementLevel: 3
+    Drops:
+      - Item: Cobweb
+        Rate: 10000
+      - Item: Cobweb
+        Rate: 10000
+      - Item: Bug Leg
+        Rate: 8319
+      - Item: Fruit Basket
+        Rate: 3043
+      - Item: Elegant Suit [1]
+        Rate: 350
+      - Item: [Q] Mental Stick [1]
+        Rate: 350
+      - Item: Old Blue Box
+        Rate: 538
+      - Item: Yggdrasil Berry
+        Rate: 490
+      - Item: Fruit Pom Spider Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3514
+    AegisName: POPE_MD_E_BISHOP
+    Name: Corrupted Bishop
+    Level: 130
+    Hp: 1100000
+    BaseExp: 130000
+    JobExp: 123334
+    Attack: 5400
+    Attack2: 5600
+    Defense: 25
+    MagicDefense: 15
+    Str: 35
+    Agi: 60
+    Vit: 50
+    Int: 230
+    Dex: 220
+    Luk: 30
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 14
+    Size: Medium
+    Race: Demihuman
+    Element: Holy
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Old Purple Box
+        Rate: 1153
+      - Item: Oridecon
+        Rate: 6268
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Viridian Temporal Crystal
+        Rate: 5
+      - Item: Ivory Temporal Crystal
+        Rate: 50
+      - Item: Bishop Necklace [1]
+        Rate: 15
+      - Item: Crimson Weapon Box
+        Rate: 1000
+      - Item: Corrupted Bishop Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3528
+    AegisName: POPE_MD_MERC_CASUAL
+    Name: Royal Clergy
+    Level: 130
+    Hp: 900000
+    BaseExp: 130000
+    JobExp: 120000
+    Attack: 4000
+    Attack2: 4500
+    Defense: 10
+    MagicDefense: 30
+    Str: 30
+    Agi: 160
+    Vit: 50
+    Int: 260
+    Dex: 250
+    Luk: 120
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Small
+    Race: Demihuman
+    Element: Neutral
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Old Purple Box
+        Rate: 1153
+      - Item: Oridecon
+        Rate: 6268
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Cerulean Temporal Crystal
+        Rate: 5
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: Rosary Necklace
+        Rate: 15
+      - Item: Crimson Weapon Box
+        Rate: 1000
+      - Item: Royal Clergy Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3736
+    AegisName: COWRAIDERS1
+    Name: Buffalo Bandit Shotgun
+    Level: 83
+    Hp: 110000
+    BaseExp: 35150
+    JobExp: 34150
+    Attack: 709
+    Attack2: 888
+    Defense: 15
+    MagicDefense: 12
+    Str: 10
+    Agi: 58
+    Vit: 49
+    Int: 80
+    Dex: 76
+    Luk: 49
+    AttackRange: 5
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 2
+    Drops:
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 2854
+      - Item: Old Blue Box
+        Rate: 1846
+      - Item: [M] Royal Jelly
+        Rate: 3963
+      - Item: Gold Ring
+        Rate: 586
+      - Item: Vigilante Shoes [1]
+        Rate: 10
+      - Item: Vigilante Bow [3]
+        Rate: 350
+      - Item: Shotgun Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3737
+    AegisName: COWRAIDERS2
+    Name: Buffalo Bandit Duelist
+    Level: 83
+    Hp: 110000
+    BaseExp: 34150
+    JobExp: 35150
+    Attack: 676
+    Attack2: 758
+    Defense: 12
+    MagicDefense: 15
+    Str: 10
+    Agi: 88
+    Vit: 49
+    Int: 70
+    Dex: 92
+    Luk: 50
+    AttackRange: 7
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 2
+    Drops:
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Elunium
+        Rate: 2854
+      - Item: Old Blue Box
+        Rate: 1846
+      - Item: [M] Royal Jelly
+        Rate: 3963
+      - Item: Gold Ring
+        Rate: 586
+      - Item: Vigilante Stole [1]
+        Rate: 10
+      - Item: Metal Guitar Pick [1]
+        Rate: 5
+      - Item: Revolver Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3738
+    AegisName: COWRAIDERS3
+    Name: Scimitar Buffalo Bandit
+    Level: 87
+    Hp: 125000
+    BaseExp: 37000
+    JobExp: 36000
+    Attack: 667
+    Attack2: 754
+    Defense: 18
+    MagicDefense: 15
+    Str: 10
+    Agi: 20
+    Vit: 65
+    Int: 60
+    Dex: 68
+    Luk: 36
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 2
+    Drops:
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Buffalo Bandit Mane
+        Rate: 10000
+      - Item: Elunium
+        Rate: 2854
+      - Item: Old Blue Box
+        Rate: 1846
+      - Item: [M] Royal Jelly
+        Rate: 3963
+      - Item: Gold Ring
+        Rate: 586
+      - Item: Vigilante Suit [1]
+        Rate: 10
+      - Item: Bandit's Disguise
+        Rate: 5
+      - Item: Scimitar Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3739
+    AegisName: COYOTE
+    Name: Coyote
+    Level: 60
+    Hp: 14854
+    BaseExp: 7310
+    JobExp: 7050
+    Attack: 540
+    Attack2: 710
+    Defense: 15
+    MagicDefense: 25
+    Str: 20
+    Agi: 35
+    Vit: 1
+    Int: 60
+    Dex: 85
+    Luk: 24
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Earth
+    ElementLevel: 2
+    Drops:
+      - Item: Clean Bone
+        Rate: 7627
+      - Item: [M] Rotten Meat
+        Rate: 5563
+      - Item: Flour
+        Rate: 4095
+      - Item: Rough Elunium
+        Rate: 1189
+      - Item: Elemental Converter[Earth]
+        Rate: 728
+      - Item: Rough Wind
+        Rate: 248
+      - Item: [Q] Undershirt
+        Rate: 350
+      - Item: Super Cute Doggo
+        Rate: 5
+      - Item: Coyote Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3741
+    AegisName: MECHASPIDER
+    Name: Spider Chariot
+    Level: 108
+    Hp: 9799123
+    BaseExp: 2000000
+    JobExp: 1500000
+    Attack: 11000
+    Attack2: 14000
+    Defense: 44
+    MagicDefense: 33
+    Str: 20
+    Agi: 34
+    Vit: 154
+    Int: 140
+    Dex: 217
+    Luk: 98
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 2
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Red Box
+        Rate: 5000
+      - Item: Old Purple Box
+        Rate: 2500
+      - Item: Old Purple Box
+        Rate: 1250
+    Drops:
+      - Item: Fantastic Cooking Kit
+        Rate: 10000
+      - Item: Old Red Box
+        Rate: 10000
+      - Item: HD Oridecon
+        Rate: 591
+      - Item: HD Elunium
+        Rate: 975
+      - Item: Metal Stick [2]
+        Rate: 500
+      - Item: Mine Worker's Pickaxe [1]
+        Rate: 200
+      - Item: Iron Staff [2]
+        Rate: 300
+      - Item: Flame Thrower [1]
+        Rate: 150
+      - Item: Spider Chariot Card
+        Rate: 1
+        StealProtected: true
+  - Id: 3747
+    AegisName: E_COWRAIDERS1
+    Name: Elite Buffalo Bandit
+    Level: 98
+    Hp: 3000000
+    BaseExp: 250000
+    JobExp: 270000
+    Attack: 8000
+    Attack2: 9000
+    Defense: 40
+    MagicDefense: 35
+    Str: 40
+    Agi: 55
+    Vit: 61
+    Int: 22
+    Dex: 250
+    Luk: 20
+    AttackRange: 9
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Tuft of Bandit Manes
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 5781
+      - Item: Yggdrasil Berry
+        Rate: 1426
+      - Item: Silvervine Fruit
+        Rate: 500
+      - Item: Old Red Box
+        Rate: 300
+      - Item: Calf Anaconda [1]
+        Rate: 50
+      - Item: Calf Kingcobra [1]
+        Rate: 50
+      - Item: Calf Python [1]
+        Rate: 50
+      - Item: Traveler's Card Album
+        Rate: 20
+      - Item: Elite Shotgun Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3748
+    AegisName: E_COWRAIDERS2
+    Name: Elite Buffalo Bandit
+    Level: 98
+    Hp: 3000000
+    BaseExp: 250000
+    JobExp: 270000
+    Attack: 6500
+    Attack2: 7500
+    Defense: 38
+    MagicDefense: 45
+    Str: 40
+    Agi: 75
+    Vit: 45
+    Int: 35
+    Dex: 255
+    Luk: 15
+    AttackRange: 10
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Tuft of Bandit Manes
+        Rate: 10000
+      - Item: Elunium
+        Rate: 5781
+      - Item: Yggdrasil Berry
+        Rate: 1426
+      - Item: Silvervine Fruit
+        Rate: 500
+      - Item: Old Red Box
+        Rate: 300
+      - Item: Calf Deathadder [1]
+        Rate: 50
+      - Item: Calf Diamondback [1]
+        Rate: 50
+      - Item: Traveler's Card Album
+        Rate: 20
+      - Item: Elite Revolver Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3749
+    AegisName: E_COWRAIDERS3
+    Name: Elite Buffalo Bandit
+    Level: 98
+    Hp: 3200000
+    BaseExp: 266667
+    JobExp: 288000
+    Attack: 3000
+    Attack2: 4500
+    Defense: 32
+    MagicDefense: 50
+    Str: 40
+    Agi: 24
+    Vit: 95
+    Int: 180
+    Dex: 180
+    Luk: 10
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Demihuman
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Tuft of Bandit Manes
+        Rate: 10000
+      - Item: Elunium
+        Rate: 5781
+      - Item: Yggdrasil Berry
+        Rate: 1426
+      - Item: Silvervine Fruit
+        Rate: 500
+      - Item: Old Red Box
+        Rate: 300
+      - Item: Elemental Origin [3]
+        Rate: 100
+      - Item: Bandit's Saber [2]
+        Rate: 50
+      - Item: Platinum Dagger [2]
+        Rate: 50
+      - Item: Traveler's Card Album
+        Rate: 20
+      - Item: Elite Scimitar Buffalo Bandit Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3790
+    AegisName: SWEETS_DROPS
+    Name: Sweet Drops
+    Level: 28
+    Hp: 3986
+    BaseExp: 584
+    JobExp: 1415
+    Attack: 67
+    Attack2: 102
+    Defense: 12
+    MagicDefense: 19
+    Str: 20
+    Agi: 44
+    Vit: 15
+    Int: 30
+    Dex: 23
+    Luk: 15
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Plant
+    Element: Fire
+    ElementLevel: 1
+    Drops:
+      - Item: White Chocolate
+        Rate: 10000
+      - Item: Fierce Cacao
+        Rate: 3409
+      - Item: Candy
+        Rate: 2661
+      - Item: Chocolate Strawberry
+        Rate: 1846
+      - Item: Rough Oridecon
+        Rate: 394
+      - Item: Gift Box
+        Rate: 296
+      - Item: Elemental Converter[Fire]
+        Rate: 100
+      - Item: Cute Grass Necklace [1]
+        Rate: 25
+      - Item: Sweet Drops Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3846
+    AegisName: ROYAL_DRUID
+    Name: Royal Druid
+    Level: 130
+    Hp: 1000000
+    BaseExp: 146667
+    JobExp: 96667
+    Attack: 5500
+    Attack2: 5800
+    Defense: 30
+    MagicDefense: 10
+    Str: 30
+    Agi: 30
+    Vit: 40
+    Int: 250
+    Dex: 200
+    Luk: 90
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 14
+    Size: Large
+    Race: Demon
+    Element: Fire
+    ElementLevel: 2
+    Class: Boss
+    Drops:
+      - Item: Old Purple Box
+        Rate: 1153
+      - Item: Elunium
+        Rate: 6268
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Violet Temporal Crystal
+        Rate: 5
+      - Item: Crimson Temporal Crystal
+        Rate: 5
+      - Item: Holy Water Staff [2]
+        Rate: 300
+      - Item: Crimson Weapon Box
+        Rate: 1000
+      - Item: Royal Druid Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3847
+    AegisName: CORRUPTED_DUKE
+    Name: Corrupted Duke
+    Level: 90
+    Hp: 215000
+    BaseExp: 64000
+    JobExp: 58666
+    Attack: 1400
+    Attack2: 1800
+    Defense: 40
+    MagicDefense: 50
+    Str: 30
+    Agi: 35
+    Vit: 45
+    Int: 90
+    Dex: 130
+    Luk: 60
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demihuman
+    Element: Neutral
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Tattered Clothes
+        Rate: 3859
+      - Item: Duke's Parasol
+        Rate: 1956
+      - Item: Arunafeltz Desert Sandwich
+        Rate: 1153
+      - Item: Oridecon
+        Rate: 1153
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Violet Temporal Crystal
+        Rate: 15
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: [Q] Duke's Tattered Clothes
+        Rate: 10
+      - Item: Corrupted Duke Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3849
+    AegisName: OGH_ZEALOTUS
+    Name: Zealotus
+    Level: 105
+    Hp: 745000
+    BaseExp: 273167
+    JobExp: 322833
+    Attack: 2600
+    Attack2: 3500
+    Defense: 20
+    MagicDefense: 20
+    Str: 85
+    Agi: 50
+    Vit: 71
+    Int: 43
+    Dex: 150
+    Luk: 105
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Dark
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Rose Quartz
+        Rate: 10000
+      - Item: [Q] Earring
+        Rate: 45
+      - Item: Improved Tights [1]
+        Rate: 731
+      - Item: Forbidden Red Candle
+        Rate: 105
+      - Item: Flare Whip (R) [1]
+        Rate: 1153
+      - Item: Jackson Rhoads [1]
+        Rate: 1153
+      - Item: Zealotus Card
+        Rate: 5
+        StealProtected: true
+  - Id: 3850
+    AegisName: Little_Demon_NME
+    Name: Little Demon
+    Level: 130
+    Hp: 150000
+    Attack: 600
+    Attack2: 800
+    Defense: 45
+    MagicDefense: 45
+    Str: 20
+    Agi: 50
+    Vit: 75
+    Int: 150
+    Dex: 250
+    Luk: 20
+    AttackRange: 4
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Neutral
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+  - Id: 3851
+    AegisName: Little_Demon_NMA
+    Name: Little Demon
+    Level: 130
+    Hp: 150000
+    Attack: 600
+    Attack2: 800
+    Defense: 45
+    MagicDefense: 45
+    Str: 20
+    Agi: 50
+    Vit: 75
+    Int: 150
+    Dex: 250
+    Luk: 20
+    AttackRange: 4
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Neutral
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+  - Id: 3852
+    AegisName: Little_Demon_NRA
+    Name: Little Demon
+    Level: 130
+    Hp: 150000
+    Attack: 600
+    Attack2: 800
+    Defense: 45
+    MagicDefense: 45
+    Str: 20
+    Agi: 50
+    Vit: 75
+    Int: 150
+    Dex: 250
+    Luk: 20
+    AttackRange: 4
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Neutral
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+  - Id: 3853
+    AegisName: MUTATING_PRISONER
+    Name: Mutating Prisoner
+    Level: 95
+    Hp: 81000
+    BaseExp: 56700
+    JobExp: 43200
+    Attack: 2400
+    Attack2: 3200
+    Defense: 28
+    MagicDefense: 35
+    Str: 70
+    Agi: 70
+    Vit: 110
+    Int: 223
+    Dex: 170
+    Luk: 40
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Dark
+    ElementLevel: 2
+    Drops:
+      - Item: [Q] Worn-out Prison Uniform
+        Rate: 8840
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: Elunium
+        Rate: 1413
+      - Item: 1carat Diamond
+        Rate: 2661
+      - Item: Prisoner's Uniform [1]
+        Rate: 350
+      - Item: Dark Rose [3]
+        Rate: 350
+      - Item: Crimson Temporal Crystal
+        Rate: 15
+      - Item: Ivory Temporal Crystal
+        Rate: 5
+      - Item: Mutating Prisoner Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20367
+    AegisName: RAYDRIC_H
+    Name: Contaminated Raydric
+    Level: 80
+    Hp: 60353
+    BaseExp: 42250
+    JobExp: 40235
+    Attack: 1250
+    Attack2: 1460
+    Defense: 30
+    MagicDefense: 15
+    Str: 48
+    Agi: 47
+    Vit: 70
+    Int: 160
+    Dex: 122
+    Luk: 26
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: [Q] Brigan
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 1098
+      - Item: Kingdom Keyblade [2]
+        Rate: 350
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: Garnet
+        Rate: 2262
+      - Item: Ivory Temporal Crystal
+        Rate: 10
+      - Item: Cerulean Temporal Crystal
+        Rate: 4
+      - Item: Full Plate [1]
+        Rate: 350
+      - Item: Contaminated Raydric Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20368
+    AegisName: RAYDRIC_ARCHER_H
+    Name: Contaminated Archer
+    Level: 92
+    Hp: 58799
+    BaseExp: 45079
+    JobExp: 49000
+    Attack: 1315
+    Attack2: 1500
+    Defense: 28
+    MagicDefense: 26
+    Str: 15
+    Agi: 93
+    Vit: 22
+    Int: 5
+    Dex: 131
+    Luk: 35
+    AttackRange: 9
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: [Q] Brigan
+        Rate: 10000
+      - Item: Cursed Water
+        Rate: 3043
+      - Item: Oridecon
+        Rate: 1098
+      - Item: [Q] Arbalest [2]
+        Rate: 350
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: Garnet
+        Rate: 2262
+      - Item: Ivory Temporal Crystal
+        Rate: 10
+      - Item: Cerulean Temporal Crystal
+        Rate: 4
+      - Item: Royal Archer Suit [1]
+        Rate: 350
+      - Item: Contaminated Raydric Archer Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20369
+    AegisName: GARGOYLE_H
+    Name: Frozen Gargoyle
+    Level: 88
+    Hp: 61250
+    BaseExp: 26500
+    JobExp: 30917
+    Attack: 1260
+    Attack2: 1535
+    Defense: 30
+    MagicDefense: 35
+    Str: 15
+    Agi: 83
+    Vit: 20
+    Int: 20
+    Dex: 101
+    Luk: 40
+    AttackRange: 9
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Water
+    ElementLevel: 3
+    Drops:
+      - Item: Little Evil Wing
+        Rate: 9564
+      - Item: Elunium
+        Rate: 1098
+      - Item: Sapphire
+        Rate: 2262
+      - Item: [Q] Gakkung [2]
+        Rate: 350
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: Viridian Temporal Crystal
+        Rate: 15
+      - Item: Cerulean Temporal Crystal
+        Rate: 5
+      - Item: Glacier Guard [1]
+        Rate: 5
+      - Item: Frozen Gargoyle Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20370
+    AegisName: STING_H
+    Name: Contaminated Sting
+    Level: 81
+    Hp: 84238
+    BaseExp: 63178
+    JobExp: 50542
+    Attack: 1150
+    Attack2: 1362
+    Defense: 35
+    MagicDefense: 35
+    Str: 57
+    Agi: 45
+    Vit: 55
+    Int: 85
+    Dex: 120
+    Luk: 85
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: Oridecon
+        Rate: 1846
+      - Item: Trap
+        Rate: 10000
+      - Item: Yggdrasil Berry
+        Rate: 394
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: Box of Coagulated Spells
+        Rate: 10000
+      - Item: Zircon
+        Rate: 3409
+      - Item: Viridian Temporal Crystal
+        Rate: 15
+      - Item: Cerulean Temporal Crystal
+        Rate: 5
+      - Item: Imperial Glove [1]
+        Rate: 5
+      - Item: Contaminated Sting Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20372
+    AegisName: BLAZZER_H
+    Name: Rigid Blazer
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3858
+    Attack2: 5158
+    Defense: 25
+    MagicDefense: 50
+    Str: 1
+    Agi: 60
+    Vit: 73
+    Int: 250
+    Dex: 130
+    Luk: 120
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: [M] Burning Heart
+        Rate: 4880
+      - Item: Elunium
+        Rate: 238
+      - Item: Oridecon
+        Rate: 443
+      - Item: Fireproof Potion
+        Rate: 1426
+      - Item: Strawberry
+        Rate: 10000
+      - Item: Old Purple Box
+        Rate: 297
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Fire Brand
+        Rate: 176
+      - Item: Rigid Blazer Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20373
+    AegisName: NIGHTMARE_TERROR_H
+    Name: Rigid Nightmare Terror
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3812
+    Attack2: 5220
+    Defense: 40
+    MagicDefense: 15
+    Str: 1
+    Agi: 70
+    Vit: 21
+    Int: 250
+    Dex: 180
+    Luk: 61
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Dark
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Burning Horseshoe
+        Rate: 5070
+      - Item: Oridecon
+        Rate: 703
+      - Item: Old Purple Box
+        Rate: 297
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Infiltrator [1]
+        Rate: 176
+      - Item: Old Red Box
+        Rate: 125
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Rigid Nightmare Terror Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20374
+    AegisName: DELETER1_H
+    Name: Rigid Sky Deleter
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3523
+    Attack2: 5882
+    Defense: 50
+    MagicDefense: 25
+    Str: 1
+    Agi: 65
+    Vit: 63
+    Int: 250
+    Dex: 140
+    Luk: 47
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Dragon
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Dragon Skin
+        Rate: 2746
+      - Item: Dragon Canine
+        Rate: 3492
+      - Item: Elunium
+        Rate: 238
+      - Item: Oridecon
+        Rate: 443
+      - Item: Old Blue Box
+        Rate: 731
+      - Item: Dragon Wing
+        Rate: 60
+      - Item: Dragon Breath [1]
+        Rate: 60
+      - Item: Fallen Leaves Branch
+        Rate: 36
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Rigid Sky Deleter Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20375
+    AegisName: DELETER2_H
+    Name: Rigid Earth Deleter
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3509
+    Attack2: 5119
+    Defense: 45
+    MagicDefense: 25
+    Str: 1
+    Agi: 63
+    Vit: 63
+    Int: 250
+    Dex: 160
+    Luk: 29
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Dragon
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Dragon Skin
+        Rate: 2749
+      - Item: Dragon Canine
+        Rate: 3492
+      - Item: Flame Heart
+        Rate: 588
+      - Item: Old Red Box
+        Rate: 125
+      - Item: Oridecon
+        Rate: 617
+      - Item: Strawberry
+        Rate: 10000
+      - Item: Old Purple Box
+        Rate: 268
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Rigid Earth Deleter Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20376
+    AegisName: EXPLOSION_H
+    Name: Rigid Explosion
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3902
+    Attack2: 5550
+    Defense: 25
+    MagicDefense: 50
+    Str: 1
+    Agi: 67
+    Vit: 39
+    Int: 250
+    Dex: 180
+    Luk: 90
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Beast
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: White Herb
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: Flame Heart
+        Rate: 588
+      - Item: Old Blue Box
+        Rate: 731
+      - Item: Oridecon
+        Rate: 617
+      - Item: Spicy Fried Bao
+        Rate: 90
+      - Item: Fallen Leaves Branch
+        Rate: 36
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Rigid Explosion Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20377
+    AegisName: KAHO_H
+    Name: Rigid Kaho
+    Level: 99
+    Hp: 350000
+    BaseExp: 50000
+    JobExp: 45000
+    Attack: 3576
+    Attack2: 5118
+    Defense: 40
+    MagicDefense: 20
+    Str: 1
+    Agi: 62
+    Vit: 29
+    Int: 250
+    Dex: 200
+    Luk: 100
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: White Herb
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: Flame Heart
+        Rate: 588
+      - Item: Elunium
+        Rate: 617
+      - Item: Old Red Box
+        Rate: 125
+      - Item: Strawberry
+        Rate: 10000
+      - Item: Magma Essence
+        Rate: 4000
+      - Item: Rigid Kaho Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20378
+    AegisName: LAVA_GOLEM_H
+    Name: Rigid Lava Golem
+    Level: 99
+    Hp: 2500000
+    BaseExp: 400000
+    JobExp: 375000
+    Attack: 8000
+    Attack2: 9000
+    Defense: 75
+    MagicDefense: 55
+    Str: 1
+    Agi: 69
+    Vit: 179
+    Int: 250
+    Dex: 210
+    Luk: 1
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Ghost
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Oridecon
+        Rate: 10000
+      - Item: Elunium
+        Rate: 10000
+      - Item: HD Oridecon
+        Rate: 149
+      - Item: HD Elunium
+        Rate: 297
+      - Item: Old Purple Box
+        Rate: 10000
+      - Item: Magma Essence
+        Rate: 10000
+      - Item: Magma Essence
+        Rate: 10000
+      - Item: Magma Essence
+        Rate: 10000
+      - Item: Traveler's Card Album
+        Rate: 40
+      - Item: Rigid Lava Golem Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20379
+    AegisName: ICE_GHOST_H
+    Name: Ice Ghost
+    Level: 95
+    Hp: 79636
+    BaseExp: 22564
+    JobExp: 19909
+    Attack: 1507
+    Attack2: 1909
+    Defense: 74
+    MagicDefense: 30
+    Str: 66
+    Agi: 10
+    Vit: 44
+    Int: 130
+    Dex: 51
+    Luk: 44
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Water
+    ElementLevel: 3
+    Drops:
+      - Item: Crystal Blue
+        Rate: 490
+      - Item: [Q] Skull
+        Rate: 2262
+      - Item: [M] Mystic Frozen
+        Rate: 248
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 2500
+      - Item: [T] Contaminated Magic
+        Rate: 100
+      - Item: Cerulean Temporal Crystal
+        Rate: 15
+      - Item: Violet Temporal Crystal
+        Rate: 5
+      - Item: Glacial Robe [1]
+        Rate: 350
+      - Item: Ice Ghost Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20380
+    AegisName: FLAME_GHOST_H
+    Name: Flame Ghost
+    Level: 95
+    Hp: 79636
+    BaseExp: 22564
+    JobExp: 19909
+    Attack: 1507
+    Attack2: 1909
+    Defense: 74
+    MagicDefense: 20
+    Str: 66
+    Agi: 10
+    Vit: 44
+    Int: 130
+    Dex: 51
+    Luk: 44
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Fire
+    ElementLevel: 3
+    Drops:
+      - Item: Red Blood
+        Rate: 490
+      - Item: [Q] Skull
+        Rate: 2262
+      - Item: Flame Heart
+        Rate: 248
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 2500
+      - Item: [T] Contaminated Magic
+        Rate: 100
+      - Item: Cerulean Temporal Crystal
+        Rate: 15
+      - Item: Violet Temporal Crystal
+        Rate: 5
+      - Item: Flame Rune Manteau [1]
+        Rate: 350
+      - Item: Flame Ghost Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20385
+    AegisName: MD_GH_KING_SCHMIDT
+    Name: King Schmidt
+    Level: 100
+    Hp: 9000000
+    BaseExp: 4500000
+    JobExp: 2500000
+    Attack: 60000
+    Attack2: 60001
+    Defense: 1
+    MagicDefense: 1
+    Str: 10
+    Agi: 90
+    Vit: 20
+    Int: 190
+    Dex: 700
+    Luk: 91
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 14
+    Size: Medium
+    Race: Demihuman
+    Element: Neutral
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Yggdrasil Berry
+        Rate: 5000
+      - Item: Old Purple Box
+        Rate: 2500
+      - Item: Old Card Album
+        Rate: 2500
+    Drops:
+      - Item: HD Elunium
+        Rate: 5100
+      - Item: HD Oridecon
+        Rate: 1536
+      - Item: King's Suit [1]
+        Rate: 5000
+      - Item: King's Manteau [1]
+        Rate: 5000
+      - Item: Large Box of Contaminated Magic
+        Rate: 10000
+      - Item: Steamed Tongue
+        Rate: 1200
+      - Item: Save the King [2]
+        Rate: 4000
+      - Item: King Schmidt Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20419
+    AegisName: MUSPELLSKOLL_H
+    Name: Muspellskoll
+    Level: 100
+    Hp: 35000000
+    BaseExp: 3500000
+    JobExp: 2750000
+    Attack: 6000
+    Attack2: 8000
+    Defense: 30
+    MagicDefense: 30
+    Str: 10
+    Agi: 70
+    Vit: 60
+    Int: 210
+    Dex: 150
+    Luk: 1
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Beast
+    Element: Fire
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Red Box
+        Rate: 8000
+      - Item: Old Purple Box
+        Rate: 1600
+      - Item: Old Card Album
+        Rate: 80
+    Drops:
+      - Item: Old Red Box
+        Rate: 10000
+      - Item: HD Oridecon
+        Rate: 10000
+      - Item: HD Elunium
+        Rate: 10000
+      - Item: Flaming Wand [2]
+        Rate: 5000
+      - Item: Volcano Knife [2]
+        Rate: 5000
+      - Item: Manteau of Flame Heart [1]
+        Rate: 700
+      - Item: Flame Rune Armor [1]
+        Rate: 200
+      - Item: Flame Muffler
+        Rate: 10
+      - Item: Muspellskoll Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20420
+    AegisName: WANDER_MAN_H
+    Name: Corrupted Wanderer
+    Level: 140
+    Hp: 295000
+    BaseExp: 162250
+    JobExp: 152416
+    Attack: 5820
+    Attack2: 6400
+    Defense: 70
+    MagicDefense: 30
+    Str: 20
+    Agi: 30
+    Vit: 100
+    Int: 250
+    Dex: 120
+    Luk: 350
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Ghost
+    ElementLevel: 3
+    Drops:
+      - Item: [Q] Skull
+        Rate: 9638
+      - Item: Oridecon
+        Rate: 1846
+      - Item: Old Purple Box
+        Rate: 961
+      - Item: [M][T] Coagulated Spell
+        Rate: 300
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Cerulean Temporal Crystal
+        Rate: 5
+      - Item: Crimson Temporal Crystal
+        Rate: 5
+      - Item: Wings of Asmodeus
+        Rate: 15
+      - Item: Crimson Weapon Box
+        Rate: 200
+      - Item: Corrupted Wanderer Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20421
+    AegisName: BRINARANEA_H
+    Name: Polluted Spider Queen
+    Level: 99
+    Hp: 4500000
+    BaseExp: 2500000
+    JobExp: 2333333
+    MvpExp: 500000
+    Attack: 4000
+    Attack2: 6000
+    Defense: 50
+    MagicDefense: 30
+    Str: 10
+    Agi: 70
+    Vit: 50
+    Int: 130
+    Dex: 130
+    Luk: 60
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Poison
+    ElementLevel: 3
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Blue Box
+        Rate: 7000
+      - Item: Old Purple Box
+        Rate: 2100
+      - Item: Old Card Album
+        Rate: 450
+    Drops:
+      - Item: Yggdrasil Berry
+        Rate: 10000
+      - Item: Cooked Nine Tail's Tails
+        Rate: 1164
+      - Item: HD Oridecon
+        Rate: 975
+      - Item: HD Elunium
+        Rate: 1900
+      - Item: Gungnir
+        Rate: 400
+      - Item: Poison Bayonet (G) [2]
+        Rate: 1500
+      - Item: Polluted Spider Queen Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20422
+    AegisName: DARK_LORD_H
+    Name: Polluted Dark Lord
+    Level: 99
+    Hp: 8000000
+    BaseExp: 5333333
+    JobExp: 5000000
+    MvpExp: 800000
+    Attack: 13000
+    Attack2: 16000
+    Defense: 40
+    MagicDefense: 40
+    Str: 10
+    Agi: 120
+    Vit: 130
+    Int: 130
+    Dex: 130
+    Luk: 80
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Undead
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Blue Box
+        Rate: 5000
+      - Item: Old Purple Box
+        Rate: 2500
+      - Item: Old Card Album
+        Rate: 1250
+    Drops:
+      - Item: Yggdrasil Berry
+        Rate: 10000
+      - Item: Immortal Stew
+        Rate: 1164
+      - Item: HD Oridecon
+        Rate: 1900
+      - Item: HD Elunium
+        Rate: 2775
+      - Item: Skull Cap [1]
+        Rate: 200
+      - Item: Repentance [2]
+        Rate: 2000
+      - Item: Polluted Dark Lord Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20572
+    AegisName: MD_C_HEMEL
+    Name: Himmelmez
+    Level: 110
+    Hp: 20000000
+    BaseExp: 20000000
+    JobExp: 16000000
+    MvpExp: 5000000
+    Attack: 28000
+    Attack2: 32000
+    Resistance: 50
+    MagicResistance: 50
+    Str: 1
+    Agi: 90
+    Vit: 25
+    Int: 400
+    Dex: 220
+    Luk: 980
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Medium
+    Race: Demihuman
+    Element: Holy
+    ElementLevel: 2
+    Class: Boss
+    Modes:
+      Mvp: True
+    Drops:
+      - Item: HD Elunium
+        Rate: 9600
+      - Item: HD Oridecon
+        Rate: 8400
+      - Item: [T] Purified Temporal Crystal
+        Rate: 10000
+      - Item: [T] Purified Temporal Crystal
+        Rate: 10000
+      - Item: [T] Purified Temporal Crystal
+        Rate: 10000
+      - Item: Aegis of the Immortal [1]
+        Rate: 30
+      - Item: Death's Dance [2]
+        Rate: 3000
+      - Item: Spell Circuit [1]
+        Rate: 500
+      - Item: Save the Queen [3]
+        Rate: 3000
+      - Item: Himmelmez Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20573
+    AegisName: MD_C_AMDARAIS
+    Name: Phantom Amdarais
+    Level: 110
+    Hp: 5000000
+    Attack: 27000
+    Attack2: 36000
+    Resistance: 30
+    MagicResistance: 40
+    Str: 1
+    Agi: 30
+    Vit: 15
+    Int: 300
+    Dex: 220
+    Luk: 300
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Demon
+    Element: Ghost
+    ElementLevel: 3
+    Class: Boss
+    Modes:
+      Mvp: True
+  - Id: 20574
+    AegisName: MD_C_WHITEKNIGHT
+    Name: White Knight
+    Level: 140
+    Hp: 2500000
+    BaseExp: 280000
+    JobExp: 235000
+    Attack: 10300
+    Attack2: 11500
+    Defense: 50
+    MagicDefense: 45
+    Str: 50
+    Agi: 30
+    Vit: 60
+    Int: 170
+    Dex: 110
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 14
+    Size: Large
+    Race: Demihuman
+    Element: Poison
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Oridecon
+        Rate: 7379
+      - Item: Old Purple Box
+        Rate: 238
+      - Item: [M][T] Coagulated Spell
+        Rate: 3000
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: Shadow Temporal Crystal
+        Rate: 30
+      - Item: Violet Temporal Crystal
+        Rate: 30
+      - Item: Royal Guard's Spear [1]
+        Rate: 1500
+      - Item: Crimson Weapon Box
+        Rate: 1000
+      - Item: White Knight Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20576
+    AegisName: MD_C_KHALITZBURG
+    Name: Khalitzburg Knight
+    Level: 140
+    Hp: 2500000
+    BaseExp: 280000
+    JobExp: 235000
+    Attack: 9500
+    Attack2: 10300
+    Defense: 55
+    MagicDefense: 45
+    Str: 50
+    Agi: 25
+    Vit: 60
+    Int: 170
+    Dex: 115
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 14
+    Size: Medium
+    Race: Undead
+    Element: Undead
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Elunium
+        Rate: 7379
+      - Item: [M][T] Coagulated Spell
+        Rate: 3000
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: Box of Contaminated Magic
+        Rate: 10000
+      - Item: Viridian Temporal Crystal
+        Rate: 30
+      - Item: Cerulean Temporal Crystal
+        Rate: 30
+      - Item: Romantic Carnation
+        Rate: 102
+      - Item: [Q] Pristine Chivalry Emblem
+        Rate: 297
+      - Item: Crimson Weapon Box
+        Rate: 1000
+      - Item: Khalitzburg Knight Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20577
+    AegisName: MD_C_RAYDRIC
+    Name: Cursed Raydric
+    Level: 140
+    Hp: 305431
+    BaseExp: 162896
+    JobExp: 142534
+    Attack: 6300
+    Attack2: 7100
+    Defense: 60
+    MagicDefense: 50
+    Str: 68
+    Agi: 30
+    Vit: 60
+    Int: 215
+    Dex: 110
+    Luk: 50
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demihuman
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: [M] Destroyed Armor
+        Rate: 2262
+      - Item: Elunium
+        Rate: 1846
+      - Item: Old Purple Box
+        Rate: 775
+      - Item: [M][T] Coagulated Spell
+        Rate: 300
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Violet Temporal Crystal
+        Rate: 5
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: Imperial Guard [1]
+        Rate: 50
+      - Item: Crimson Weapon Box
+        Rate: 200
+      - Item: Cursed Raydric Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20578
+    AegisName: MD_C_RAYDRIC_ARCHER
+    Name: Cursed Raydric Archer
+    Level: 140
+    Hp: 276799
+    BaseExp: 156852
+    JobExp: 129172
+    Attack: 5615
+    Attack2: 6200
+    Defense: 55
+    MagicDefense: 45
+    Str: 15
+    Agi: 110
+    Vit: 60
+    Int: 32
+    Dex: 135
+    Luk: 35
+    AttackRange: 9
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Dark
+    ElementLevel: 4
+    Drops:
+      - Item: Steel Arrow Quiver
+        Rate: 1413
+      - Item: Elunium
+        Rate: 1846
+      - Item: Old Purple Box
+        Rate: 961
+      - Item: [M][T] Coagulated Spell
+        Rate: 300
+      - Item: [T] Contaminated Magic
+        Rate: 10000
+      - Item: Viridian Temporal Crystal
+      - Item: Ivory Temporal Crystal
+        Rate: 5
+      - Item: Royal Guard's Bow
+        Rate: 350
+      - Item: Crimson Weapon Box
+        Rate: 200
+      - Item: Cursed Raydric Archer Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20593
+    AegisName: TOXIOUS
+    Name: Toxious
+    Level: 80
+    Hp: 55500
+    BaseExp: 36075
+    JobExp: 24050
+    Attack: 814
+    Attack2: 954
+    Defense: 60
+    MagicDefense: 18
+    Str: 1
+    Agi: 43
+    Vit: 80
+    Int: 70
+    Dex: 68
+    Luk: 47
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Formless
+    Element: Fire
+    ElementLevel: 1
+    Drops:
+      - Item: Toxic Gas
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: White Herb
+        Rate: 10000
+      - Item: [M] Opal
+        Rate: 1413
+      - Item: Elunium
+        Rate: 1413
+      - Item: Dynite
+        Rate: 10000
+      - Item: Rough Shadowdecon
+        Rate: 490
+      - Item: Rough Zelunium
+        Rate: 490
+      - Item: Toxious Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20594
+    AegisName: MINERAL_G
+    Name: Green Mineral
+    Level: 80
+    Hp: 60000
+    BaseExp: 38000
+    JobExp: 26000
+    Attack: 834
+    Attack2: 984
+    Defense: 57
+    MagicDefense: 18
+    Str: 1
+    Agi: 41
+    Vit: 96
+    Int: 74
+    Dex: 63
+    Luk: 68
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Earth
+    ElementLevel: 2
+    Drops:
+      - Item: Dark Crystal Fragment
+        Rate: 10000
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Emerald
+        Rate: 1413
+      - Item: Elemental Converter[Earth]
+        Rate: 442
+      - Item: Elunium
+        Rate: 1413
+      - Item: Dynite
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 490
+      - Item: Rough Shadowdecon
+        Rate: 490
+      - Item: Neo Mineral Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20595
+    AegisName: MINERAL_R
+    Name: Red Mineral
+    Level: 80
+    Hp: 57000
+    BaseExp: 36100
+    JobExp: 30400
+    Attack: 830
+    Attack2: 957
+    Defense: 63
+    MagicDefense: 20
+    Str: 1
+    Agi: 34
+    Vit: 96
+    Int: 73
+    Dex: 68
+    Luk: 75
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Fire
+    ElementLevel: 1
+    Drops:
+      - Item: Dark Crystal Fragment
+        Rate: 10000
+      - Item: Blue Herb
+        Rate: 10000
+      - Item: Garnet
+        Rate: 1413
+      - Item: Elemental Converter[Fire]
+        Rate: 442
+      - Item: Oridecon
+        Rate: 1413
+      - Item: Dynite
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 490
+      - Item: Rough Shadowdecon
+        Rate: 490
+      - Item: Neo Mineral Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20601
+    AegisName: JUNGOLIANT
+    Name: Jewel Ungoliant
+    Level: 97
+    Hp: 3847096
+    BaseExp: 333334
+    JobExp: 300000
+    MvpExp: 0
+    Attack: 7264
+    Attack2: 7782
+    Defense: 45
+    MagicDefense: 50
+    Str: 30
+    Agi: 165
+    Vit: 123
+    Int: 158
+    Dex: 190
+    Luk: 64
+    AttackRange: 3
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Purple Box
+        Rate: 5000
+      - Item: Old Blue Box
+        Rate: 2500
+      - Item: Yggdrasil Berry
+        Rate: 2500
+    Drops:
+      - Item: Dynite
+        Rate: 10000
+      - Item: Steamed Desert Scorpions
+        Rate: 1900
+      - Item: Peridot
+        Rate: 10000
+      - Item: HD Oridecon
+        Rate: 396
+      - Item: HD Elunium
+        Rate: 784
+      - Item: Safety Whip [2]
+        Rate: 1000
+      - Item: Detecting Staff [3]
+        Rate: 1000
+      - Item: Claw Sword [1]
+        Rate: 1000
+      - Item: Ice pick
+        Rate: 50
+      - Item: Jewel Ungoliant Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20684
+    AegisName: EP17_2_ROAMING_SPLBOOK
+    Name: Roaming Spellbook
+    Level: 90
+    Hp: 200000
+    BaseExp: 59500
+    JobExp: 51000
+    Attack: 1300
+    Attack2: 1500
+    Defense: 35
+    MagicDefense: 57
+    Str: 25
+    Agi: 30
+    Vit: 70
+    Int: 100
+    Dex: 125
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Fire
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: [Q] Bloody Page
+        Rate: 873
+      - Item: [Q] Worn Out Page
+        Rate: 7840
+      - Item: Oridecon
+        Rate: 1153
+      - Item: Chewy Ricecake
+        Rate: 617
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Violet Temporal Crystal
+        Rate: 15
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: Cursed Spell Book [1]
+        Rate: 15
+      - Item: Roaming Spellbook Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20839
+    AegisName: DARK_CHIMERA_OGH
+    Name: Dark Chimera
+    Level: 140
+    Hp: 1500000
+    BaseExp: 1789
+    JobExp: 1455
+    Attack: 8000
+    Attack2: 10000
+    Defense: 75
+    MagicDefense: 75
+    Str: 50
+    Agi: 50
+    Vit: 90
+    Int: 250
+    Dex: 140
+    Luk: 90
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Dark
+    ElementLevel: 4
+    Class: Boss
+    Drops:
+      - Item: Muscovite
+        Rate: 10000
+      - Item: Turquoise
+        Rate: 10000
+      - Item: Biotite
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 9730
+      - Item: Old Card Album
+        Rate: 15
+      - Item: Cursed Royal Pendant [1]
+        Rate: 45
+      - Item: Dark Chimera Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20888
+    AegisName: MD_AIRBOAT_WORM
+    Name: Grave Worm
+    Level: 80
+    Hp: 60000
+    BaseExp: 32000
+    JobExp: 24000
+    Attack: 265
+    Attack2: 360
+    Defense: 50
+    MagicDefense: 60
+    Str: 1
+    Agi: 40
+    Vit: 90
+    Int: 120
+    Dex: 85
+    Luk: 120
+    AttackRange: 1
+    SkillRange: 14
+    ChaseRange: 12
+    Size: Medium
+    Race: Insect
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: Scale Shell
+        Rate: 4095
+      - Item: [M] Insect Leg
+        Rate: 8319
+      - Item: Immortal Heart
+        Rate: 10000
+      - Item: Immortal Heart
+        Rate: 10000
+      - Item: Immortal Heart
+        Rate: 10000
+      - Item: Oridecon
+        Rate: 775
+      - Item: Airship Armor [1]
+        Rate: 350
+      - Item: Rapture Rose
+        Rate: 350
+      - Item: Fallen Leaves Branch
+        Rate: 15
+      - Item: Grave Worm Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20889
+    AegisName: MD_AIRBOAT_LEECH
+    Name: Brain Sucker
+    Level: 80
+    Hp: 59000
+    BaseExp: 29500
+    JobExp: 25560
+    Attack: 800
+    Attack2: 1100
+    Defense: 40
+    MagicDefense: 40
+    Str: 1
+    Agi: 74
+    Vit: 65
+    Int: 120
+    Dex: 110
+    Luk: 75
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Insect
+    Element: Undead
+    ElementLevel: 3
+    Drops:
+      - Item: [M] Insect Leg
+        Rate: 8319
+      - Item: Alcohol
+        Rate: 1144
+      - Item: Red Prickly Fruit
+        Rate: 5563
+      - Item: Grape
+        Rate: 2661
+      - Item: Oridecon
+        Rate: 775
+      - Item: Airship Boots [1]
+        Rate: 350
+      - Item: Zeny Knife
+        Rate: 350
+      - Item: Brain Sucker Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20890
+    AegisName: MD_AIRBOAT_MOS
+    Name: Moskillro
+    Level: 80
+    Hp: 58500
+    BaseExp: 25350
+    JobExp: 19666.66667
+    Attack: 1000
+    Attack2: 1100
+    Defense: 34
+    MagicDefense: 34
+    Str: 1
+    Agi: 77
+    Vit: 60
+    Int: 120
+    Dex: 105
+    Luk: 80
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Insect
+    Element: Fire
+    ElementLevel: 3
+    Drops:
+      - Item: [M] Insect Leg
+        Rate: 8319
+      - Item: Bee Sting
+        Rate: 10000
+      - Item: Bee Sting
+        Rate: 10000
+      - Item: Bee Sting
+        Rate: 10000
+      - Item: Grape
+        Rate: 2661
+      - Item: Airship Manteau [1]
+        Rate: 350
+      - Item: Romantic White Flower
+        Rate: 10
+      - Item: Weeder Knife
+        Rate: 350
+      - Item: Oridecon
+        Rate: 775
+      - Item: Moskillro Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20891
+    AegisName: MD_AIRBOAT_BOSS
+    Name: Unidentified Creature
+    Level: 139
+    Hp: 11000000
+    BaseExp: 3404000
+    JobExp: 2990000
+    MvpExp: 702000
+    Attack: 9000
+    Attack2: 11000
+    Defense: 70
+    MagicDefense: 1
+    Str: 1
+    Agi: 223
+    Vit: 87
+    Int: 500
+    Dex: 362
+    Luk: 163
+    AttackRange: 3
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Formless
+    Element: Ghost
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Yggdrasil Berry
+        Rate: 5500
+      - Item: HD Elunium
+        Rate: 2250
+      - Item: HD Oridecon
+        Rate: 1125
+    Drops:
+      - Item: Will of Red Darkness
+        Rate: 9900
+      - Item: Ferlock's Boots [1]
+        Rate: 5000
+      - Item: Ferlock's Cloak [1]
+        Rate: 4000
+      - Item: Ferlock's Armor [1]
+        Rate: 3000
+      - Item: Costume Ferlock's Hat (Blue)
+        Rate: 50
+      - Item: Ship Captain's Hat [1]
+        Rate: 100
+      - Item: Unidentified Creature Card
+        Rate: 1
+        StealProtected: true
+  - Id: 20898
+    AegisName: MD_UNDEAD_MAGICIAN
+    Name: Bloody Wraith
+    Level: 95
+    Hp: 120000
+    BaseExp: 25000
+    JobExp: 15500
+    Attack: 1355
+    Attack2: 1700
+    Defense: 30
+    MagicDefense: 30
+    Str: 90
+    Agi: 60
+    Vit: 90
+    Int: 110
+    Dex: 115
+    Luk: 91
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Poison
+    ElementLevel: 3
+    Drops:
+      - Item: Wad of Fabric
+        Rate: 10000
+      - Item: Oriental Pastry
+        Rate: 728
+      - Item: Oridecon
+        Rate: 961
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Viridian Temporal Crystal
+      - Item: Ivory Temporal Crystal
+        Rate: 5
+      - Item: Bloody Muffler [1]
+        Rate: 350
+      - Item: Bloody Wraith Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20899
+    AegisName: MD_UNDEAD_NOBLE
+    Name: Undead Noble
+    Level: 90
+    Hp: 210000
+    BaseExp: 61750
+    JobExp: 52250
+    Attack: 900
+    Attack2: 1300
+    Defense: 40
+    MagicDefense: 60
+    Str: 25
+    Agi: 32
+    Vit: 50
+    Int: 100
+    Dex: 125
+    Luk: 70
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Undead
+    Element: Undead
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: [M] Clattering Skull
+        Rate: 5781
+      - Item: [M] Skel-Bone
+        Rate: 7840
+      - Item: Elunium
+        Rate: 1153
+      - Item: Regeneration Potion
+        Rate: 617
+      - Item: [M][T] Coagulated Spell
+        Rate: 10000
+      - Item: [M][T] Coagulated Spell
+        Rate: 5000
+      - Item: Violet Temporal Crystal
+        Rate: 15
+      - Item: Shadow Temporal Crystal
+        Rate: 5
+      - Item: Cursed Book of Ymir [2]
+        Rate: 176
+      - Item: Undead Noble Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20935
+    AegisName: GAN_CEANN
+    Name: Gan Ceann
+    Level: 99
+    Hp: 160000
+    BaseExp: 76000
+    JobExp: 70000
+    Attack: 1033
+    Attack2: 1400
+    Defense: 34
+    MagicDefense: 33
+    Str: 1
+    Agi: 55
+    Vit: 16
+    Int: 90
+    Dex: 80
+    Luk: 75
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Undead
+    Element: Undead
+    ElementLevel: 2
+    Class: Boss
+    Drops:
+      - Item: Yummy Meat
+        Rate: 10000
+      - Item: Bat Cookie
+        Rate: 2710
+      - Item: Armor Piece of Dullahan
+        Rate: 9990
+      - Item: Eye of Dullahan
+        Rate: 149
+      - Item: Oridecon
+        Rate: 1153
+      - Item: Rough Shadowdecon
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 2464
+      - Item: [Q] Zelunium
+        Rate: 1290
+      - Item: Gan Ceann Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20936
+    AegisName: DISGUISER
+    Name: Disguiser
+    Level: 99
+    Hp: 600000
+    BaseExp: 37500
+    JobExp: 34375
+    Attack: 4000
+    Attack2: 6000
+    Defense: 40
+    MagicDefense: 27
+    Str: 1
+    Agi: 50
+    Vit: 25
+    Int: 100
+    Dex: 230
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Undead
+    Element: Poison
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Bat Cookie
+        Rate: 4880
+      - Item: Old Purple Box
+        Rate: 414
+      - Item: Oridecon
+        Rate: 1494
+      - Item: Poison Bottle
+        Rate: 297
+      - Item: Rider Insignia [1]
+        Rate: 176
+      - Item: Memory of Gyoll
+        Rate: 120
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: Disguiser Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20937
+    AegisName: BRUTAL_MURDERER
+    Name: Brutal Murderer
+    Level: 99
+    Hp: 155000
+    BaseExp: 55000
+    JobExp: 65000
+    Attack: 1000
+    Attack2: 1300
+    Defense: 35
+    MagicDefense: 5
+    Str: 1
+    Agi: 50
+    Vit: 16
+    Int: 160
+    Dex: 90
+    Luk: 75
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demihuman
+    Element: Dark
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Yummy Meat
+        Rate: 10000
+      - Item: Bat Cookie
+        Rate: 2710
+      - Item: [M] Old Manteau
+        Rate: 9990
+      - Item: Elunium
+        Rate: 1153
+      - Item: Ginnungagap [1]
+        Rate: 176
+      - Item: Rough Shadowdecon
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 2464
+      - Item: [Q] Zelunium
+        Rate: 1290
+      - Item: Brutal Murderer Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20938
+    AegisName: GHOST_CUBE
+    Name: Ghost Cube
+    Level: 99
+    Hp: 135000
+    BaseExp: 50000
+    JobExp: 60000
+    Attack: 1166
+    Attack2: 1366
+    Defense: 30
+    MagicDefense: 30
+    Str: 1
+    Agi: 50
+    Vit: 16
+    Int: 70
+    Dex: 75
+    Luk: 40
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Undead
+    Element: Undead
+    ElementLevel: 2
+    Class: Boss
+    Drops:
+      - Item: Yummy Meat
+        Rate: 10000
+      - Item: Bat Cookie
+        Rate: 2710
+      - Item: Piece of Black Cloth
+        Rate: 9990
+      - Item: Elunium
+        Rate: 1153
+      - Item: Old Purple Box
+        Rate: 30
+      - Item: Rough Shadowdecon
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 2464
+      - Item: [Q] Zelunium
+        Rate: 1290
+      - Item: Ghost Cube Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20939
+    AegisName: LUDE_GAL
+    Name: Lude Gal
+    Level: 99
+    Hp: 135000
+    BaseExp: 50000
+    JobExp: 60000
+    Attack: 1166
+    Attack2: 1366
+    Defense: 10
+    MagicDefense: 30
+    Str: 1
+    Agi: 50
+    Vit: 16
+    Int: 110
+    Dex: 70
+    Luk: 40
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Ghost
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Yummy Meat
+        Rate: 10000
+      - Item: Bat Cookie
+        Rate: 4880
+      - Item: Costume Lude Hood
+        Rate: 30
+      - Item: Oridecon
+        Rate: 1153
+      - Item: Old Purple Box
+        Rate: 30
+      - Item: Rough Shadowdecon
+        Rate: 10000
+      - Item: Rough Zelunium
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 2464
+      - Item: [Q] Zelunium
+        Rate: 1290
+      - Item: Lude Gal Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20940
+    AegisName: BLUEMOON_LOLI_RURI
+    Name: Blue Moon Loli Ruri
+    Level: 99
+    Hp: 600000
+    BaseExp: 75500
+    JobExp: 70375
+    Attack: 3200
+    Attack2: 5200
+    Defense: 56
+    MagicDefense: 24
+    Str: 1
+    Agi: 49
+    Vit: 25
+    Int: 150
+    Dex: 230
+    Luk: 150
+    AttackRange: 2
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Demon
+    Element: Water
+    ElementLevel: 3
+    Class: Boss
+    Drops:
+      - Item: Black Cat Doll
+        Rate: 4880
+      - Item: Old Purple Box
+        Rate: 414
+      - Item: Elunium
+        Rate: 1494
+      - Item: Bat Cookie
+        Rate: 4880
+      - Item: Crescent Scythe [1]
+        Rate: 176
+      - Item: Memory of Gyoll
+        Rate: 120
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: Blue Moon Loli Ruri Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20941
+    AegisName: GROTE
+    Name: Grote
+    Level: 99
+    Hp: 600000
+    BaseExp: 73500
+    JobExp: 69750
+    Attack: 4500
+    Attack2: 6000
+    Defense: 35
+    MagicDefense: 30
+    Str: 1
+    Agi: 60
+    Vit: 25
+    Int: 90
+    Dex: 230
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Undead
+    Element: Earth
+    ElementLevel: 1
+    Class: Boss
+    Drops:
+      - Item: Bat Cookie
+        Rate: 4880
+      - Item: Ruby
+        Rate: 1426
+      - Item: Bloody Branch
+        Rate: 39
+      - Item: Old Purple Box
+        Rate: 414
+      - Item: Oridecon
+        Rate: 1494
+      - Item: Memory of Gyoll
+        Rate: 120
+      - Item: [Q] Zelunium
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: Grote Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20942
+    AegisName: PIERROTZOIST
+    Name: Pierrotzoist
+    Level: 99
+    Hp: 320000
+    BaseExp: 50000
+    JobExp: 48333
+    Attack: 1700
+    Attack2: 1900
+    Defense: 29
+    MagicDefense: 5
+    Str: 1
+    Agi: 60
+    Vit: 25
+    Int: 90
+    Dex: 230
+    Luk: 150
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Demon
+    Element: Dark
+    ElementLevel: 2
+    Class: Boss
+    Drops:
+      - Item: Broken Needle
+        Rate: 10000
+      - Item: Bat Cookie
+        Rate: 2710
+      - Item: Old Purple Box
+        Rate: 297
+      - Item: Elunium
+        Rate: 1494
+      - Item: [Q] Zelunium
+        Rate: 2710
+      - Item: [Q] Shadowdecon
+        Rate: 10000
+      - Item: Memory of Gyoll
+        Rate: 120
+      - Item: Costume Bear Backpack
+        Rate: 15
+      - Item: Pierrotzoist Card
+        Rate: 5
+        StealProtected: true
+  - Id: 20943
+    AegisName: DEATH_WITCH
+    Name: Death Witch
+    Level: 99
+    Hp: 15000000
+    BaseExp: 7473790
+    JobExp: 6510667
+    MvpExp: 1000000
+    Attack: 27000
+    Attack2: 35000
+    Defense: 70
+    MagicDefense: 12
+    Str: 1
+    Agi: 190
+    Vit: 15
+    Int: 300
+    Dex: 220
+    Luk: 300
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Demon
+    Element: Dark
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    MvpDrops:
+      - Item: Old Card Album
+        Rate: 7000
+      - Item: Old Purple Box
+        Rate: 2100
+      - Item: Mystical Card Album
+        Rate: 450
+    Drops:
+      - Item: Yggdrasil Berry
+        Rate: 10000
+      - Item: Immortal Stew
+        Rate: 1444
+      - Item: Witch's Robe [1]
+        Rate: 4000
+      - Item: Witch's Broomstick [1]
+        Rate: 5000
+      - Item: Witch's Shoes [1]
+        Rate: 5000
+      - Item: Witch's Hat
+        Rate: 500
+      - Item: HD Elunium
+        Rate: 7500
+      - Item: HD Oridecon
+        Rate: 5100
+      - Item: Death Witch Card
+        Rate: 1
+        StealProtected: true
+  - Id: 21305
+    AegisName: EP18_TUMBLE_RING
+    Name: Tumblering
+    Level: 65
+    Hp: 14350
+    BaseExp: 7175
+    JobExp: 6936
+    Attack: 555
+    Attack2: 720
+    Defense: 18
+    MagicDefense: 19
+    Str: 20
+    Agi: 25
+    Vit: 1
+    Int: 50
+    Dex: 80
+    Luk: 39
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Plant
+    Element: Poison
+    ElementLevel: 2
+    Drops:
+      - Item: Maneater Root
+        Rate: 10000
+      - Item: Box of Empty Bottles (10)
+        Rate: 10000
+      - Item: Prickly Fruit
+        Rate: 4095
+      - Item: Shoot
+        Rate: 2661
+      - Item: Rough Oridecon
+        Rate: 1189
+      - Item: Elemental Converter[Earth]
+        Rate: 728
+      - Item: Frontier Boots [1]
+        Rate: 5
+      - Item: Tumblering Card
+        Rate: 5
+        StealProtected: true
+  - Id: 21386
+    AegisName: ILL_ANDRE
+    Name: Diligent Andre
+    Level: 77
+    Hp: 43882
+    BaseExp: 6825
+    JobExp: 5460
+    Attack: 700
+    Attack2: 900
+    Defense: 27
+    MagicDefense: 12
+    Str: 20
+    Agi: 40
+    Vit: 65
+    Int: 60
+    Dex: 110
+    Luk: 40
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 3
+    Drops:
+      - Item: Ant Antennae
+        Rate: 10000
+      - Item: Bug Leg
+        Rate: 10000
+      - Item: Zircon
+        Rate: 1846
+      - Item: Mastela Fruit
+        Rate: 490
+      - Item: Elunium
+        Rate: 495
+      - Item: Dead Branch
+        Rate: 728
+      - Item: Fallen Leaves Branch
+        Rate: 5
+      - Item: Diligent Andre Card
+        Rate: 5
+        StealProtected: true
+  - Id: 21387
+    AegisName: ILL_SOLDIER_ANDR
+    Name: Diligent Soldier Andre
+    Level: 80
+    Hp: 70000
+    BaseExp: 10000
+    JobExp: 10000
+    Attack: 800
+    Attack2: 1000
+    Defense: 20
+    MagicDefense: 10
+    Str: 30
+    Agi: 16
+    Vit: 350
+    Int: 88
+    Dex: 141
+    Luk: 91
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Medium
+    Race: Insect
+    Element: Fire
+    ElementLevel: 4
+  - Id: 21389
+    AegisName: ILL_DENIRO
+    Name: Diligent Deniro
+    Level: 77
+    Hp: 41978
+    BaseExp: 6825
+    JobExp: 5460
+    Attack: 650
+    Attack2: 800
+    Defense: 23
+    MagicDefense: 16
+    Str: 20
+    Agi: 50
+    Vit: 80
+    Int: 59
+    Dex: 120
+    Luk: 60
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 3
+    Drops:
+      - Item: Ant Antennae
+        Rate: 10000
+      - Item: Bug Leg
+        Rate: 10000
+      - Item: Zircon
+        Rate: 1846
+      - Item: Mastela Fruit
+        Rate: 490
+      - Item: Oridecon
+        Rate: 614
+      - Item: Dead Branch
+        Rate: 728
+      - Item: Fallen Leaves Branch
+        Rate: 5
+      - Item: Diligent Deniro Card
+        Rate: 5
+        StealProtected: true
+  - Id: 21390
+    AegisName: ILL_PIERE
+    Name: Diligent Piere
+    Level: 77
+    Hp: 40541
+    BaseExp: 6500
+    JobExp: 5200
+    Attack: 750
+    Attack2: 850
+    Defense: 28
+    MagicDefense: 11
+    Str: 20
+    Agi: 45
+    Vit: 85
+    Int: 63
+    Dex: 115
+    Luk: 10
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Small
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 3
+    Drops:
+      - Item: Ant Antennae
+        Rate: 10000
+      - Item: Bug Leg
+        Rate: 10000
+      - Item: Zircon
+        Rate: 1846
+      - Item: Mastela Fruit
+        Rate: 490
+      - Item: Oridecon
+        Rate: 614
+      - Item: Dead Branch
+        Rate: 728
+      - Item: Fallen Leaves Branch
+        Rate: 5
+      - Item: Diligent Piere Card
+        Rate: 5
+        StealProtected: true
+  - Id: 21395
+    AegisName: ILL_MAYA
+    Name: Silent Maya
+    Level: 80
+    Hp: 4500000
+    BaseExp: 1500000
+    JobExp: 500000
+    MvpExp: 1000000
+    Attack: 2000
+    Attack2: 3600
+    Defense: 25
+    MagicDefense: 15
+    Str: 40
+    Agi: 30
+    Vit: 140
+    Int: 130
+    Dex: 140
+    Luk: 70
+    AttackRange: 1
+    SkillRange: 10
+    ChaseRange: 12
+    Size: Large
+    Race: Insect
+    Element: Neutral
+    ElementLevel: 4
+    Class: Boss
+    Modes:
+      Mvp: True
+    Drops:
+      - Item: Queen Ant Jaw
+        Rate: 10000
+      - Item: Silent Maya Card
+        Rate: 1
+        StealProtected: true
 
