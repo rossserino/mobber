@@ -41293,9 +41293,9 @@ Body:
         Rate: 961
       - Item: LV3 Aspersio Scroll
         Rate: 728
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Violet Temporal Crystal
         Rate: 15
@@ -41346,7 +41346,7 @@ Body:
         Rate: 7500
       - Item: Hurricane Fury [1]
         Rate: 100
-      - Item: [Q] Hunting Spear [1]
+      - Item: "[Q] Hunting Spear [1]"
         Rate: 100
       - Item: Yggdrasil Berry
         Rate: 975
@@ -41384,7 +41384,7 @@ Body:
     Element: Water
     ElementLevel: 2
     Drops:
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 25
       - Item: Heart of Mermaid
         Rate: 10000
@@ -41403,7 +41403,7 @@ Body:
       - Item: Iara Card
         Rate: 5
         StealProtected: true
-    - Id: 2070
+  - Id: 2070
     AegisName: PIRANHA
     Name: Piranha
     Level: 71
@@ -41430,7 +41430,7 @@ Body:
     Drops:
       - Item: Gill
         Rate: 2661
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 25
       - Item: Sharp Scale
         Rate: 10000
@@ -41516,7 +41516,7 @@ Body:
     Drops:
       - Item: Can of Anchovies
         Rate: 2661
-      - Item: [Q] Leopard Skin
+      - Item: "[Q] Leopard Skin"
         Rate: 8319
       - Item: Blue Herb
         Rate: 3409
@@ -41556,7 +41556,7 @@ Body:
     Drops:
       - Item: Can of Anchovies
         Rate: 2661
-      - Item: [Q] Talon
+      - Item: "[Q] Talon"
         Rate: 8319
       - Item: Cyfar
         Rate: 4095
@@ -41645,7 +41645,7 @@ Body:
         Rate: 591
       - Item: Karvodailnirol
         Rate: 394
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 296
       - Item: Elunium
         Rate: 1144
@@ -41683,7 +41683,7 @@ Body:
     Drops:
       - Item: Sapphire
         Rate: 432
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 296
       - Item: Crystal Arrow Quiver
         Rate: 223
@@ -41736,17 +41736,17 @@ Body:
     Drops:
       - Item: Manteau of Mystic Frozen [1]
         Rate: 6000
-      - Item: [Q] Cardo [1]
+      - Item: "[Q] Cardo [1]"
         Rate: 1500
       - Item: Ice Falchion
         Rate: 3000
-      - Item: [Q] Hunting Spear [1]
+      - Item: "[Q] Hunting Spear [1]"
         Rate: 1500
       - Item: Water Spirit Armor [1]
         Rate: 1000
       - Item: Treasure Box
         Rate: 10000
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 3600
       - Item: Kraken Card
         Rate: 1
@@ -41778,9 +41778,9 @@ Body:
     Drops:
       - Item: Sapphire
         Rate: 432
-      - Item: [M] Coral Reef
+      - Item: "[M] Coral Reef"
         Rate: 7927
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 321
       - Item: Aquamarine
         Rate: 1034
@@ -41822,7 +41822,7 @@ Body:
     Drops:
       - Item: Glass Bead
         Rate: 3760
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 321
       - Item: Sapphire
         Rate: 442
@@ -41952,6 +41952,7 @@ Body:
     Element: Undead
     ElementLevel: 4
     Class: Boss
+    Modes:
       Mvp: True
   - Id: 2916
     AegisName: BIG_BEN
@@ -42022,7 +42023,7 @@ Body:
     Drops:
       - Item: Needle of Alarm
         Rate: 8319
-      - Item: [Q] Skull
+      - Item: "[Q] Skull"
         Rate: 3228
       - Item: Oridecon
         Rate: 961
@@ -42199,9 +42200,9 @@ Body:
         Rate: 10000
       - Item: Cluster of Poison Spores
         Rate: 10000
-      - Item: [M] Soft Feather
+      - Item: "[M] Soft Feather"
         Rate: 2710
-      - Item: [P] Pocket Watch
+      - Item: "[P] Pocket Watch"
         Rate: 6
       - Item: Quadrille [1]
         Rate: 60
@@ -42242,11 +42243,11 @@ Body:
         Rate: 10000
       - Item: Cluster of Poison Spores
         Rate: 10000
-      - Item: [M] Soft Feather
+      - Item: "[M] Soft Feather"
         Rate: 2710
-      - Item: [Q] Gakkung [2]
+      - Item: "[Q] Gakkung [2]"
         Rate: 2710
-      - Item: [Q] Soul Staff
+      - Item: "[Q] Soul Staff"
         Rate: 2710
       - Item: Monocle [1]
         Rate: 3
@@ -42282,7 +42283,7 @@ Body:
     Element: Undead
     ElementLevel: 4
     Drops:
-      - Item: [Q] Hung Doll
+      - Item: "[Q] Hung Doll"
         Rate: 3760
       - Item: Decomposed Rope
         Rate: 7881
@@ -42370,11 +42371,11 @@ Body:
     Element: Dark
     ElementLevel: 2
     Drops:
-      - Item: [M] Mould Powder
+      - Item: "[M] Mould Powder"
         Rate: 6723
       - Item: Garnet
         Rate: 490
-      - Item: [M] Well Baked Cookie
+      - Item: "[M] Well Baked Cookie"
         Rate: 2262
       - Item: Elunium
         Rate: 610
@@ -42414,7 +42415,7 @@ Body:
     Element: Undead
     ElementLevel: 2
     Drops:
-      - Item: [M] Manacles
+      - Item: "[M] Manacles"
         Rate: 6723
       - Item: Rough Wind
         Rate: 50
@@ -42464,7 +42465,7 @@ Body:
         Rate: 490
       - Item: Lutie Cold Noodle
         Rate: 149
-      - Item: [M] Piece of Cake
+      - Item: "[M] Piece of Cake"
         Rate: 2661
       - Item: Holly Sprig
         Rate: 10000
@@ -42775,9 +42776,9 @@ Body:
         Rate: 961
       - Item: Sesame Pastry
         Rate: 728
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Cerulean Temporal Crystal
         Rate: 15
@@ -42930,11 +42931,11 @@ Body:
     Element: Dark
     ElementLevel: 2
     Drops:
-      - Item: [M] Clattering Skull
+      - Item: "[M] Clattering Skull"
         Rate: 8840
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: 1carat Diamond
         Rate: 2661
@@ -43034,9 +43035,9 @@ Body:
         Rate: 149
       - Item: Four Leaf Clover
         Rate: 25
-      - Item: [Q] Clown Nose
+      - Item: "[Q] Clown Nose"
         Rate: 20
-      - Item: [Q] Leaf Lunatic Card
+      - Item: "[Q] Leaf Lunatic Card"
         Rate: 5
         StealProtected: true
   - Id: 3500
@@ -43074,13 +43075,12 @@ Body:
         Rate: 1413
       - Item: Rough Elunium
         Rate: 394
-      - Item: [M] Well
-        Rate: Dried Bone
-      - Item: 248
-        Rate: [Q] Fresh Tuna Talisman [1]
-      - Item: 25
-        Rate: Hunter Wolf Card
-      - Item: 5
+      - Item: "[M] Well-Dried Bone"
+        Rate: 248
+      - Item: "[Q] Fresh Tuna Talisman [1]"
+        Rate: 25
+      - Item: Hunter Wolf Card
+        Rate: 5
         StealProtected: true
   - Id: 3501
     AegisName: DR_SPORE
@@ -43165,7 +43165,7 @@ Body:
         Rate: 442
       - Item: Elemental Converter[Water]
         Rate: 198
-      - Item: [M] Basil
+      - Item: "[M] Basil"
         Rate: 149
       - Item: Large Foxtail Staff [2]
         Rate: 350
@@ -43197,7 +43197,7 @@ Body:
     Element: Fire
     ElementLevel: 2
     Drops:
-      - Item: [M] Dragon Scale
+      - Item: "[M] Dragon Scale"
         Rate: 10000
       - Item: Elunium
         Rate: 961
@@ -43207,7 +43207,7 @@ Body:
         Rate: 490
       - Item: Yggdrasil Berry
         Rate: 394
-      - Item: [M] Basil
+      - Item: "[M] Basil"
         Rate: 321
       - Item: Elegant Shoes [1]
         Rate: 350
@@ -43239,7 +43239,7 @@ Body:
     Element: Wind
     ElementLevel: 4
     Drops:
-      - Item: [M] Dragon Tail
+      - Item: "[M] Dragon Tail"
         Rate: 10000
       - Item: Yggdrasil Berry
         Rate: 490
@@ -43249,11 +43249,11 @@ Body:
         Rate: 1144
       - Item: Elunium
         Rate: 1144
-      - Item: [M] Basil
+      - Item: "[M] Basil"
         Rate: 1189
       - Item: Elegant Manteau [1]
         Rate: 350
-      - Item: [Q] Raksasa Dagger
+      - Item: "[Q] Raksasa Dagger"
         Rate: 350
       - Item: Charge Basilisk Card
         Rate: 5
@@ -43387,7 +43387,7 @@ Body:
         Rate: 3043
       - Item: Elegant Suit [1]
         Rate: 350
-      - Item: [Q] Mental Stick [1]
+      - Item: "[Q] Mental Stick [1]"
         Rate: 350
       - Item: Old Blue Box
         Rate: 538
@@ -43428,7 +43428,7 @@ Body:
         Rate: 6268
       - Item: Box of Contaminated Magic
         Rate: 10000
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Viridian Temporal Crystal
         Rate: 5
@@ -43473,7 +43473,7 @@ Body:
         Rate: 6268
       - Item: Box of Contaminated Magic
         Rate: 10000
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Cerulean Temporal Crystal
         Rate: 5
@@ -43519,7 +43519,7 @@ Body:
         Rate: 2854
       - Item: Old Blue Box
         Rate: 1846
-      - Item: [M] Royal Jelly
+      - Item: "[M] Royal Jelly"
         Rate: 3963
       - Item: Gold Ring
         Rate: 586
@@ -43563,7 +43563,7 @@ Body:
         Rate: 2854
       - Item: Old Blue Box
         Rate: 1846
-      - Item: [M] Royal Jelly
+      - Item: "[M] Royal Jelly"
         Rate: 3963
       - Item: Gold Ring
         Rate: 586
@@ -43607,7 +43607,7 @@ Body:
         Rate: 2854
       - Item: Old Blue Box
         Rate: 1846
-      - Item: [M] Royal Jelly
+      - Item: "[M] Royal Jelly"
         Rate: 3963
       - Item: Gold Ring
         Rate: 586
@@ -43645,7 +43645,7 @@ Body:
     Drops:
       - Item: Clean Bone
         Rate: 7627
-      - Item: [M] Rotten Meat
+      - Item: "[M] Rotten Meat"
         Rate: 5563
       - Item: Flour
         Rate: 4095
@@ -43655,7 +43655,7 @@ Body:
         Rate: 728
       - Item: Rough Wind
         Rate: 248
-      - Item: [Q] Undershirt
+      - Item: "[Q] Undershirt"
         Rate: 350
       - Item: Super Cute Doggo
         Rate: 5
@@ -43931,7 +43931,7 @@ Body:
         Rate: 6268
       - Item: Box of Contaminated Magic
         Rate: 10000
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Violet Temporal Crystal
         Rate: 5
@@ -43978,15 +43978,15 @@ Body:
         Rate: 1153
       - Item: Oridecon
         Rate: 1153
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Violet Temporal Crystal
         Rate: 15
       - Item: Shadow Temporal Crystal
         Rate: 5
-      - Item: [Q] Duke's Tattered Clothes
+      - Item: "[Q] Duke's Tattered Clothes"
         Rate: 10
       - Item: Corrupted Duke Card
         Rate: 5
@@ -44019,7 +44019,7 @@ Body:
     Drops:
       - Item: Rose Quartz
         Rate: 10000
-      - Item: [Q] Earring
+      - Item: "[Q] Earring"
         Rate: 45
       - Item: Improved Tights [1]
         Rate: 731
@@ -44056,7 +44056,7 @@ Body:
     ElementLevel: 1
     Class: Boss
     Drops:
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
   - Id: 3851
     AegisName: Little_Demon_NMA
@@ -44082,7 +44082,7 @@ Body:
     ElementLevel: 1
     Class: Boss
     Drops:
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
   - Id: 3852
     AegisName: Little_Demon_NRA
@@ -44108,7 +44108,7 @@ Body:
     ElementLevel: 1
     Class: Boss
     Drops:
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
   - Id: 3853
     AegisName: MUTATING_PRISONER
@@ -44135,11 +44135,11 @@ Body:
     Element: Dark
     ElementLevel: 2
     Drops:
-      - Item: [Q] Worn-out Prison Uniform
+      - Item: "[Q] Worn-out Prison Uniform"
         Rate: 8840
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: Elunium
         Rate: 1413
@@ -44181,13 +44181,13 @@ Body:
     Element: Poison
     ElementLevel: 3
     Drops:
-      - Item: [Q] Brigan
+      - Item: "[Q] Brigan"
         Rate: 10000
       - Item: Oridecon
         Rate: 1098
       - Item: Kingdom Keyblade [2]
         Rate: 350
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: Garnet
         Rate: 2262
@@ -44225,15 +44225,15 @@ Body:
     Element: Poison
     ElementLevel: 3
     Drops:
-      - Item: [Q] Brigan
+      - Item: "[Q] Brigan"
         Rate: 10000
       - Item: Cursed Water
         Rate: 3043
       - Item: Oridecon
         Rate: 1098
-      - Item: [Q] Arbalest [2]
+      - Item: "[Q] Arbalest [2]"
         Rate: 350
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: Garnet
         Rate: 2262
@@ -44277,11 +44277,11 @@ Body:
         Rate: 1098
       - Item: Sapphire
         Rate: 2262
-      - Item: [Q] Gakkung [2]
+      - Item: "[Q] Gakkung [2]"
         Rate: 350
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: Viridian Temporal Crystal
         Rate: 15
@@ -44323,7 +44323,7 @@ Body:
         Rate: 10000
       - Item: Yggdrasil Berry
         Rate: 394
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
       - Item: Box of Coagulated Spells
         Rate: 10000
@@ -44364,7 +44364,7 @@ Body:
     ElementLevel: 4
     Class: Boss
     Drops:
-      - Item: [M] Burning Heart
+      - Item: "[M] Burning Heart"
         Rate: 4880
       - Item: Elunium
         Rate: 238
@@ -44682,15 +44682,15 @@ Body:
     Drops:
       - Item: Crystal Blue
         Rate: 490
-      - Item: [Q] Skull
+      - Item: "[Q] Skull"
         Rate: 2262
-      - Item: [M] Mystic Frozen
+      - Item: "[M] Mystic Frozen"
         Rate: 248
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 2500
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 100
       - Item: Cerulean Temporal Crystal
         Rate: 15
@@ -44728,15 +44728,15 @@ Body:
     Drops:
       - Item: Red Blood
         Rate: 490
-      - Item: [Q] Skull
+      - Item: "[Q] Skull"
         Rate: 2262
       - Item: Flame Heart
         Rate: 248
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 2500
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 100
       - Item: Cerulean Temporal Crystal
         Rate: 15
@@ -44878,15 +44878,15 @@ Body:
     Element: Ghost
     ElementLevel: 3
     Drops:
-      - Item: [Q] Skull
+      - Item: "[Q] Skull"
         Rate: 9638
       - Item: Oridecon
         Rate: 1846
       - Item: Old Purple Box
         Rate: 961
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 300
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Cerulean Temporal Crystal
         Rate: 5
@@ -45034,11 +45034,11 @@ Body:
         Rate: 9600
       - Item: HD Oridecon
         Rate: 8400
-      - Item: [T] Purified Temporal Crystal
+      - Item: "[T] Purified Temporal Crystal"
         Rate: 10000
-      - Item: [T] Purified Temporal Crystal
+      - Item: "[T] Purified Temporal Crystal"
         Rate: 10000
-      - Item: [T] Purified Temporal Crystal
+      - Item: "[T] Purified Temporal Crystal"
         Rate: 10000
       - Item: Aegis of the Immortal [1]
         Rate: 30
@@ -45106,7 +45106,7 @@ Body:
         Rate: 7379
       - Item: Old Purple Box
         Rate: 238
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 3000
       - Item: Box of Contaminated Magic
         Rate: 10000
@@ -45151,7 +45151,7 @@ Body:
     Drops:
       - Item: Elunium
         Rate: 7379
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 3000
       - Item: Box of Contaminated Magic
         Rate: 10000
@@ -45163,7 +45163,7 @@ Body:
         Rate: 30
       - Item: Romantic Carnation
         Rate: 102
-      - Item: [Q] Pristine Chivalry Emblem
+      - Item: "[Q] Pristine Chivalry Emblem"
         Rate: 297
       - Item: Crimson Weapon Box
         Rate: 1000
@@ -45195,15 +45195,15 @@ Body:
     Element: Poison
     ElementLevel: 3
     Drops:
-      - Item: [M] Destroyed Armor
+      - Item: "[M] Destroyed Armor"
         Rate: 2262
       - Item: Elunium
         Rate: 1846
       - Item: Old Purple Box
         Rate: 775
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 300
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Violet Temporal Crystal
         Rate: 5
@@ -45247,9 +45247,9 @@ Body:
         Rate: 1846
       - Item: Old Purple Box
         Rate: 961
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 300
-      - Item: [T] Contaminated Magic
+      - Item: "[T] Contaminated Magic"
         Rate: 10000
       - Item: Viridian Temporal Crystal
       - Item: Ivory Temporal Crystal
@@ -45292,7 +45292,7 @@ Body:
         Rate: 10000
       - Item: White Herb
         Rate: 10000
-      - Item: [M] Opal
+      - Item: "[M] Opal"
         Rate: 1413
       - Item: Elunium
         Rate: 1413
@@ -45476,17 +45476,17 @@ Body:
     ElementLevel: 1
     Class: Boss
     Drops:
-      - Item: [Q] Bloody Page
+      - Item: "[Q] Bloody Page"
         Rate: 873
-      - Item: [Q] Worn Out Page
+      - Item: "[Q] Worn Out Page"
         Rate: 7840
       - Item: Oridecon
         Rate: 1153
       - Item: Chewy Ricecake
         Rate: 617
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Violet Temporal Crystal
         Rate: 15
@@ -45565,7 +45565,7 @@ Body:
     Drops:
       - Item: Scale Shell
         Rate: 4095
-      - Item: [M] Insect Leg
+      - Item: "[M] Insect Leg"
         Rate: 8319
       - Item: Immortal Heart
         Rate: 10000
@@ -45609,7 +45609,7 @@ Body:
     Element: Undead
     ElementLevel: 3
     Drops:
-      - Item: [M] Insect Leg
+      - Item: "[M] Insect Leg"
         Rate: 8319
       - Item: Alcohol
         Rate: 1144
@@ -45651,7 +45651,7 @@ Body:
     Element: Fire
     ElementLevel: 3
     Drops:
-      - Item: [M] Insect Leg
+      - Item: "[M] Insect Leg"
         Rate: 8319
       - Item: Bee Sting
         Rate: 10000
@@ -45754,9 +45754,9 @@ Body:
         Rate: 728
       - Item: Oridecon
         Rate: 961
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Viridian Temporal Crystal
       - Item: Ivory Temporal Crystal
@@ -45792,17 +45792,17 @@ Body:
     ElementLevel: 1
     Class: Boss
     Drops:
-      - Item: [M] Clattering Skull
+      - Item: "[M] Clattering Skull"
         Rate: 5781
-      - Item: [M] Skel-Bone
+      - Item: "[M] Skel-Bone"
         Rate: 7840
       - Item: Elunium
         Rate: 1153
       - Item: Regeneration Potion
         Rate: 617
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 10000
-      - Item: [M][T] Coagulated Spell
+      - Item: "[M][T] Coagulated Spell"
         Rate: 5000
       - Item: Violet Temporal Crystal
         Rate: 15
@@ -45853,9 +45853,9 @@ Body:
         Rate: 10000
       - Item: Rough Zelunium
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 2464
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 1290
       - Item: Gan Ceann Card
         Rate: 5
@@ -45898,11 +45898,11 @@ Body:
         Rate: 176
       - Item: Memory of Gyoll
         Rate: 120
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
       - Item: Disguiser Card
         Rate: 5
@@ -45937,7 +45937,7 @@ Body:
         Rate: 10000
       - Item: Bat Cookie
         Rate: 2710
-      - Item: [M] Old Manteau
+      - Item: "[M] Old Manteau"
         Rate: 9990
       - Item: Elunium
         Rate: 1153
@@ -45947,9 +45947,9 @@ Body:
         Rate: 10000
       - Item: Rough Zelunium
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 2464
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 1290
       - Item: Brutal Murderer Card
         Rate: 5
@@ -45994,9 +45994,9 @@ Body:
         Rate: 10000
       - Item: Rough Zelunium
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 2464
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 1290
       - Item: Ghost Cube Card
         Rate: 5
@@ -46041,9 +46041,9 @@ Body:
         Rate: 10000
       - Item: Rough Zelunium
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 2464
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 1290
       - Item: Lude Gal Card
         Rate: 5
@@ -46086,11 +46086,11 @@ Body:
         Rate: 176
       - Item: Memory of Gyoll
         Rate: 120
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
       - Item: Blue Moon Loli Ruri Card
         Rate: 5
@@ -46133,11 +46133,11 @@ Body:
         Rate: 1494
       - Item: Memory of Gyoll
         Rate: 120
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
       - Item: Grote Card
         Rate: 5
@@ -46176,9 +46176,9 @@ Body:
         Rate: 297
       - Item: Elunium
         Rate: 1494
-      - Item: [Q] Zelunium
+      - Item: "[Q] Zelunium"
         Rate: 2710
-      - Item: [Q] Shadowdecon
+      - Item: "[Q] Shadowdecon"
         Rate: 10000
       - Item: Memory of Gyoll
         Rate: 120
